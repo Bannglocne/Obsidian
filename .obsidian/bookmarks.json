@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1760334694159,
+      "path": "Personal/Roadmap/Phase One.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1751354063391,
+      "path": "Project/Journal.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1753244178888,
+      "path": "IT/Tools/Hotkeys.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1757950430909,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1757950424356,
+          "path": "IT/Web Development/HTML/HTML - Box/HTML - APIs.md",
+          "title": "HTML - APIs"
+        },
+        {
+          "type": "file",
+          "ctime": 1760410165181,
+          "path": "IT/Web Development/JS/JS - Box/JS - Set.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1760410316012,
+          "path": "IT/Web Development/JS/JS - Box/JS - Maps.md"
+        }
+      ],
+      "title": "Undone"
+    }
+  ]
+}

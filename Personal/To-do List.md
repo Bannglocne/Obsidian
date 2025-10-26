@@ -1,0 +1,25 @@
+- [ ] Lucid Dream / Hyponastic Nap
+- [ ] CCCD
+- [ ] Toeic
+- [ ] tải khoá web udemy
+- [ ] drive ET HUST
+- [ ] kỹ thuật in (áo) của TX1
+- [ ] Nghiên cứu khoa học sớm (Ins) - Lab
+- [ ] Go through vipassana.  
+- [ ] Have a tea ceremony.  
+- [ ] Master the origami technique.  
+- [ ] ảnh bảng toán
+- [ ] ăn cao
+- [ ] tâm lý học
+- [ ] luật
+- [ ] CHÍnh trị
+- [ ] truyền thông
+- [ ] giáo dục
+- [ ] Kinh tế lượng
+- [ ] Lý thuyết xác xuất
+- [ ] Lý thuyết trò chơi
+- [ ] Tin nhắn instagram
+- [ ] Glucose
+- [ ] Vitamin tổng hợp
+- [ ]  fintech
+- [ ] Nạp tiền thi thử

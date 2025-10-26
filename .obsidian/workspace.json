@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "4b571853d54da558",
+    "type": "split",
+    "children": [
+      {
+        "id": "168a916c84315e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "724ebeccf24cc713",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c08253753db5e1c8",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=_42-yrWI_Gc",
+                "title": "Sinh Tồn Một Mình Nơi Hoang Dã 100 Ngày | Phiên Bản Đan Mạch - Full Mùa 8 - YouTube",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Sinh Tồn Một Mình Nơi Hoang Dã 100 Ngày | Phiên Bản Đan Mạch - Full Mùa 8 - YouTube"
+            }
+          },
+          {
+            "id": "6d1c0dd2ce730624",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97f07c6ba592605a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb3553dedc59eda",
+        "type": "tabs",
+        "dimension": 65.41554959785523,
+        "children": [
+          {
+            "id": "64335693d42d2fa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "472e54eed73c4cd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "480927670c3a1e09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "39aaa422930fbb84",
+        "type": "tabs",
+        "dimension": 34.584450402144775,
+        "children": [
+          {
+            "id": "5f10a4778e95c8d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3cb9aa83a7bfcd83",
+    "type": "split",
+    "children": [
+      {
+        "id": "0abb659a3060afe3",
+        "type": "tabs",
+        "dimension": 67.00507614213198,
+        "children": [
+          {
+            "id": "d3a75655651028fa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Economics/Microeconomics.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3747811467541914,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Microeconomics"
+            }
+          },
+          {
+            "id": "4c428209491582d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8d7bd15f90eacf88",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "25b82c353a47e18d",
+        "type": "tabs",
+        "dimension": 32.99492385786802,
+        "children": [
+          {
+            "id": "1d39147d7e704355",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "23aa86edd0ae1b9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IT/Web Development/JS/JS - Box/JS - Set.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JS - Set"
+            }
+          },
+          {
+            "id": "0339e686077e2ff7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Roadmap/Phase One.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Phase One"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": true,
+      "bases:Create new base": true,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c08253753db5e1c8",
+  "lastOpenFiles": [
+    "Personal/To-do List.md",
+    "Personal/Roadmap/Weekly.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-conversations/hi@20251026_211037.md",
+    "Economics/Microeconomics.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-conversations",
+    "Excalidraw/Drawing 2025-10-26 21.04.27.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-26 17.36.00.excalidraw.md",
+    "Excalidraw",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "IT/Database/SQL.md",
+    "IT/Web Development/CSS/CSS - Box/CSS - Basic.md",
+    "IT/Web Development/JS/JS - Box/JS - Set.md",
+    "Personal/Quotes.md",
+    "Personal/Cert.md",
+    "IT/Web Development/HTML/HTML - Box/HTML - Basic.md",
+    "IT/Web Development/HTML/HTML.md",
+    "Untitled.canvas",
+    "Recording 20251025213839.m4a",
+    "Untitled.base",
+    "Base.base",
+    "IT/Python/Python - Image/Seaborn_plot_types.png",
+    "IT/Python/Python - Image/SciPy_Graph.png",
+    "IT/Database/SQL - Box",
+    "IT/Database",
+    "IT/Python/Python - Image/Field.png",
+    "IT/Python/Python - Image/NameSpace_5.png",
+    "IT/Python/Python - Image/NameSpace_4.png",
+    "IT/Python/Python - Image/NameSpace_3.png",
+    "IT/Python/Python - Image/NameSpace_2.png",
+    "IT/Python/Python - Image/NameSpace_1.png",
+    "Personal/Roadmap",
+    "Economics/Economics - Box/Surpluses-Shortages.jpg",
+    "Economics/Economics - Box/Economic-Circulation.jpeg",
+    "Roadmap.canvas"
+  ]
+}

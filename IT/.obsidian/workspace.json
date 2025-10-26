@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "afe8db7e5d49234e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e7cb6463576f56a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c88d46dcf75ad301",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0405482783f2dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe9be33d1ca80a97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21ee050299661b7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f47e0d4b99a0139",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9bd11df004dd0a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a957991f3ce6ab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cd68f0e80ff45bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2be8183ddbb7b206",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "random",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ac14cfde1fdefab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2399128f55fa18ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "757fba64ae4aab68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2bd691137276e599",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c88d46dcf75ad301",
+  "lastOpenFiles": [
+    "CSS/CSS.md",
+    "HTML/HTML.md",
+    "HTML/HTML - Box/HTML - T - Links.md",
+    "Python/Python - Box/Python - Recursion.md",
+    "Python/Python.md",
+    "HTML/HTML - Box/HTML - T - Computer Code.md",
+    "Database/MySQL.md",
+    "Hotkeys.md",
+    "Language/Python/Python.md",
+    "Language/Python/Python - Hello World!.md",
+    "Language/Python/Python - Khác.md",
+    "Home.md",
+    "Language/Python/Python - String.md",
+    "Language/Python/Python - Function.md",
+    "Language/Python/Python - Module.md",
+    "Language/CSS/CSS.md",
+    "Language/C-Sharp/C-Sharp - Introduction.md",
+    "Language/C-Sharp/C-Sharp.md",
+    "Language/C-Sharp/C-Sharp - Array.md",
+    "Language/HTML/HTML - Basic Atrributes.md",
+    "Language/HTML/HTML - Introduction.md",
+    "Language/HTML/HTML - Basic Tags.md",
+    "Language/HTML/HTML.md",
+    "Language/CSS/CSS - Box.svg",
+    "Language/HTML/Img1.png",
+    "Language/Python/Python - List.md",
+    "Untitled.canvas",
+    "Language/C-Sharp/Img1.jpg",
+    "Language/C++/C++.md",
+    "Language/C-Sharp/Img2.jpg",
+    "Source/Img8.jpg",
+    "Language/C-Sharp/Img3.jpg",
+    "Language/C-Sharp/Img7.jpg",
+    "Language/C-Sharp/Img6.jpg",
+    "Language/C-Sharp/Img5.jpg",
+    "Language/C-Sharp/Img4.jpg",
+    "Language/Python/Python - List of list.md"
+  ]
+}
