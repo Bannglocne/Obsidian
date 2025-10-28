@@ -45,8 +45,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,12 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Personal/Roadmap/Phase One.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Phase One"
             }
           }
         ]
@@ -272,7 +272,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "963df217054f4911",
+  "active": "1b65f1d01f23998d",
   "lastOpenFiles": [
     "Personal/Roadmap/Phase One.md",
     "IT/Python/Python.md",
