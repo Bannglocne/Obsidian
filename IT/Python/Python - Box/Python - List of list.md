@@ -96,11 +96,9 @@ newlist = A[<start>:<stop>:<increment>]
 [1,4,9,16,25,36,49,64,81,100]
 ```
 
-# Iterable
-
-## Quickly create Sequential data
+# Quickly create Sequential data
 ```python
-<generator> = (<biểu thức> for <tham biế> in <interator>)
+<generator> = (<biểu thức> for <tham biến> in <interator>)
 ```
 
 ==Note==: The object of the above sequential data type can only generate data once.
@@ -112,17 +110,4 @@ newlist = A[<start>:<stop>:<increment>]
 >>> for k in a:
    print(k, end = " ")
 1 3 5 7 9 11 13 15 17 19
-
->>> for k in a:
-   print(k, end = " ")
 ```
-
-
-## Generator Function
-Function can be use many times
-```python
-def OddNum(n):
-	for i in range(n):
-		yield 2*i + 1
-```
-

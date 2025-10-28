@@ -31,6 +31,13 @@ thislist.sort(key = myfunc)
 print(thislist)
 ```
 
+
+
+
+
+
+
+
 # Looping
 ```python
 for x in myList:
@@ -49,18 +56,19 @@ newlist = [expression for item in iterable if condition == True]
 ```
 
 # Join Lists
+```python
+list3 = list1 + list2
 
+for x in list2:
+	list1.append(x)
+	
+list1.extend(list2)
+```
 # Range function
 ```python
 n = 20
 list(range(0,n,2))
 [0,2,4,,6,8,10,12,14,16,18]
-```
-
-## Tuple Data Type
-```python
->>> (1, 'kteam', [2, 'k9']) # Tuple data type is immutable
-(1, 'kteam', [2, 'k9'])
 ```
 
 ---

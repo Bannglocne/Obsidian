@@ -14,37 +14,31 @@
 {'Name': 'A', 'Age': '18'}
 ```
 
-##  keys() & values()
+```python
+myfamily = {  
+	"child1" : {  
+		"name" : "Emil",  
+		"year" : 2004  
+	},  
+	"child2" : {  
+		"name" : "Tobias",  
+		"year" : 2007  
+	},  
+}
+```
+
+##  keys() & values() & items()
 ```python
 >>> for k in s.keys():
-   print(k)
-Name
-Age
-```
-
-```python
 >>> for k in s.values():
-   print(k)
-A
-18
-```
-
-## items()
-```python
 >>> for i,k in s.items():
-   print(i,k)
-Name A
-Age 18
 ```
 
 ##  update()
 ```python
->>>h
-{'Maths':9.5, 'Physics': 10, 'Biology': 6.5}
 >>> T = {'Maths': 10, 'Biology': 8}
 >>> h.update(T)
->>> h
-{'Maths': 10, 'Physics': 10, 'Biology': 8}
+>>> h_copy = h.copy()
 ```
 
 ## get()
@@ -60,12 +54,11 @@ Biology: Still waiting
 English: 10
 ```
 
-## del()
+## Remove
 ```python
->>> A = {"Name":"A", "Age":"18"}
+>>> A = {"Name":"A", "Age":"18", "Car":"Maybach"}
 >>> del A["name"]
->>> A
-{'Age': '18'}
+>>> A.pop("Age") # A.popitem()
 ```
-
 - Clear all: `<dict object>.clear()`
+- Delete Dict: `del <dict object>`

@@ -1,121 +1,77 @@
+>Consider a module to be the same as a code library.
+>A file containing a set of functions you want to include in your application.
 
-# Khái niệm Module
-- Khái niệm: Module là một file, trong đó các lớp, hàm và biến được định nghĩa. Tất nhiên, một Module cũng có thể bao gồm code có thể chạy. (Thư viện hàm số)
 ```python
->>> dir(__builtins__)
-['ArithmeticError', 'AssertionError', 'AttributeError', 'BaseException', 'BaseExceptionGroup', 'BlockingIOError', 'BrokenPipeError', 'BufferError', 'BytesWarning', 'ChildProcessError', 'ConnectionAbortedError', 'ConnectionError', 'ConnectionRefusedError', 'ConnectionResetError', 'DeprecationWarning', 'EOFError', 'Ellipsis', 'EncodingWarning', 'EnvironmentError', 'Exception', 'ExceptionGroup', 'False', 'FileExistsError', 'FileNotFoundError', 'FloatingPointError', 'FutureWarning', 'GeneratorExit', 'IOError', 'ImportError', 'ImportWarning', 'IndentationError', 'IndexError', 'InterruptedError', 'IsADirectoryError', 'KeyError', 'KeyboardInterrupt', 'LookupError', 'MemoryError', 'ModuleNotFoundError', 'NameError', 'None', 'NotADirectoryError', 'NotImplemented', 'NotImplementedError', 'OSError', 'OverflowError', 'PendingDeprecationWarning', 'PermissionError', 'ProcessLookupError', 'RecursionError', 'ReferenceError', 'ResourceWarning', 'RuntimeError', 'RuntimeWarning', 'StopAsyncIteration', 'StopIteration', 'SyntaxError', 'SyntaxWarning', 'SystemError', 'SystemExit', 'TabError', 'TimeoutError', 'True', 'TypeError', 'UnboundLocalError', 'UnicodeDecodeError', 'UnicodeEncodeError', 'UnicodeError', 'UnicodeTranslateError', 'UnicodeWarning', 'UserWarning', 'ValueError', 'Warning', 'WindowsError', 'ZeroDivisionError', '__build_class__', '__debug__', '__doc__', '__import__', '__loader__', '__name__', '__package__', '__spec__', 'abs', 'aiter', 'all', 'anext', 'any', 'ascii', 'bin', 'bool', 'breakpoint', 'bytearray', 'bytes', 'callable', 'chr', 'classmethod', 'compile', 'complex', 'copyright', 'credits', 'delattr', 'dict', 'dir', 'divmod', 'enumerate', 'eval', 'exec', 'exit', 'filter', 'float', 'format', 'frozenset', 'getattr', 'globals', 'hasattr', 'hash', 'help', 'hex', 'id', 'input', 'int', 'isinstance', 'issubclass', 'iter', 'len', 'license', 'list', 'locals', 'map', 'max', 'memoryview', 'min', 'next', 'object', 'oct', 'open', 'ord', 'pow', 'print', 'property', 'quit', 'range', 'repr', 'reversed', 'round', 'set', 'setattr', 'slice', 'sorted', 'staticmethod', 'str', 'sum', 
-'super', 'tuple', 'type', 'vars', 'zip']
+import module_name as name
+from module_name import method_1, method_2
+from module_name import *
 ```
 
-# Lệnh import
-- Cú pháp: `import <tên module>`
-- Muốn truy cập một phương thức của module đã import, ta dùng lệnh: `<module>.<tên phương thức>`
+# Datetime
 ```python
->>>import math
->>>math.sqrt(2)
-1.4142135623709521
+>>> import datetime
+>>> print(dir(datetime))
+['MAXYEAR', 'MINYEAR', 'UTC', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', 'date', 'datetime', 'datetime_CAPI', 'time', 'timedelta', 'timezone', 'tzinfo']
 ```
-- Sử dụng trực tiếp hàm số của module: `from <module> import <hàm số>`
-	- Hoặc `from <module> import *` sẽ cho phép sử dụng trực tuếp tất cả các hàm của module
+
 ```python
->>>from math import sqrt
->>>sqrt(2)
-1.4142135623709521
+import datetime
+x = datetime.datetime.now()
+print(x.strftime(" "))
 ```
-- Có thể sử dụng lệnh import để thực hiện với nhiều module: `import <module1>, <module2>,...,<moduleN>`
-- Cũng có thể dùng lệnh import như sau:
-```python
->>> import math as m
->>> m.sqrt(2)
-1.4142135623709521 
-```
+
+| Directive | Description                                                 |
+| --------- | ----------------------------------------------------------- |
+| %a        | Weekday, short version                                      |
+| %A        | Weekday, full version                                       |
+| %w        | Weekday as a number 0-6, 0 is Sunday                        |
+| %d        | Day of month 01-31                                          |
+| %b        | Month name, short version                                   |
+| %B        | Month name, full version                                    |
+| %m        | Month as a number 01-12                                     |
+| %y        | Year, short version, without century                        |
+| %Y        | Year, full version                                          |
+| %H        | Hour 00-23                                                  |
+| %I        | Hour 00-12                                                  |
+| %p        | AM/PM                                                       |
+| %M        | Minute 00-59                                                |
+| %S        | Second 00-59                                                |
+| %f        | Microsecond 000000-999999                                   |
+| %z        | UTC offset                                                  |
+| %Z        | Timezone                                                    |
+| %j        | Day number of year 001-366                                  |
+| %U        | Week number of year, Sunday as the first day of week, 00-53 |
+| %W        | Week number of year, Monday as the first day of week, 00-53 |
+| %c        | Local version of date and time                              |
+| %C        | Century                                                     |
+| %x        | Local version of date                                       |
+| %X        | Local version of time                                       |
+| `%%`      | A % character                                               |
+| %G        | ISO 8601 year                                               |
+| %u        | ISO 8601 weekday (1-7)                                      |
+| %V        | ISO 8601 weeknumber (01-53)                                 |
 
 # Module math
-
 ```python
 >>>import math
 >>>print(dir(math))
 ['__doc__', '__loader__', '__name__', '__package__', '__spec__', 'acos', 'acosh', 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'cbrt', 'ceil', 'comb', 'copysign', 'cos', 'cosh', 'degrees', 'dist', 'e', 'erf', 'erfc', 'exp', 'exp2', 'expm1', 'fabs', 'factorial', 'floor', 'fmod', 'frexp', 'fsum', 'gamma', 'gcd', 'hypot', 'inf', 'isclose', 'isfinite', 'isinf', 'isnan', 'isqrt', 'lcm', 'ldexp', 'lgamma', 'log', 'log10', 'log1p', 'log2', 'modf', 'nan', 'nextafter', 'perm', 'pi', 'pow', 'prod', 'radians', 'remainder', 'sin', 'sinh', 'sqrt', 'tan', 'tanh', 'tau', 'trunc', 'ulp']
 ```
 
-# Số phức và module cmath
-- Số phức được quy định viết là: `<giá trị phần thực> + <giá trị phần ảo>j`
-```python
->>> z = 3 + 2j
->>> z
-(3+2j)
->>>type(z)
-<class 'complex'>
-```
-- ==Chú ý==:
-	- Nếu giá trị ảo của số phức là 1 thì phải viết là 1j
-	- Không được viết j trước giá trị số
-- Module cmath của Python bao gồm các hàm, hằng và phương thức hỗ trợ tính toán trên các số phức
 ```python
 >>> import cmath
 >>> dir(cmath)
 ['__doc__', '__loader__', '__name__', '__package__', '__spec__', 'acos', 'acosh', 'asin', 'asinh', 'atan', 'atanh', 'cos', 'cosh', 'e', 'exp', 'inf', 'infj', 'isclose', 'isfinite', 'isinf', 'isnan', 'log', 'log10', 'nan', 'nanj', 'phase', 'pi', 'polar', 'rect', 'sin', 'sinh', 'sqrt', 'tan', 'tanh', 'tau']
 ```
 
-# Tự thiết lập module
-- Mỗi module như vậy là một tệp chương trình `*.py`, trong đó tất cả các hàm số và biến nhớ được định nghĩa sẽ là tài nguyên của module này
-- Ví dụ
-```python
-# Tạo tệp python module1.py
-def f1(x):
-   print("Đây là số cần in", x)
-def f2(x,y):
-   return x + y
-```
--> Copy tệp vào các thư mục Lib các thư viện gốc của python
-```python
->>>import module1
->>>from module1 import *
->>>f1(16)
-Đây là số cần in 16
->>> f2(22,22)
-44
-```
-
-# Sinh số ngẫu nhiên của python
-- Module `random` có hàm số `random()` có khả năng sinh ngẫu nhiên một số thực nằm trong khoảng `[0,1)`
+# Random
 ```python
 >>> from random import random
 >>> random()
 0.211234321253
 ```
-- ==Chú ý==: Hàm random() không có tham số
-- Ví dụ:
-```python
->>> for i in range (n):
-   print(int(M + (N + 1 - M)*random()), end = " ") # Sinh n các số ngẫy nhiên trong khoảng [M,N]
-```
 
-```python
-from random import random
-N = int(input("Nhập số phần tử cần sinh của dãy: "))
-M = int(input("Nhập giá trị MAX của dãy cần sinh: "))
-A = []
-for i in range(N):
-	A. append(int(M*random()))
-print(A)
-```
-
-```python
-import random  
-print(random.randrange(1, 10))
-```
-
-# Sinh giá trị ngẫu nhiên từ một dãy
-- Hàm `choice()`: `choice(<dãy giá trị tuần tự>)`
-- Tham số của hàm có thể là một đối tượng dãy tuần tự bất kì như tuple, list, string,... Hàm số sẽ trả lại một phần tử ngẫu nhiên của dãy tuần tự trong hàm số
-- Ví dụ:
-```python
->>> import random as r
->>> r.choice(range(100))
-19
-```
-
+- `choice()`: `choice(<iterable>)`:  Generate random values ​​from a sequence
 ```python
 >>>import random as r
 >>>A = [1,2,3,4,5,1,32,5,6,12,1]
@@ -123,32 +79,81 @@ print(random.randrange(1, 10))
 32
 ```
 
+- `randint(a.b)`: Randomly generate an integer between 2 values ​​[a,b]
+- `randrange(start,stop,[step]`: Randomly generate in a range 
+
+# RegEx
+For more information: [[JS - RegExp]]
 ```python
->>> import random as r
->>> s = "LocDepTraiVCH"
->>> r.choice(s)
-L
+>>> import re
+>>> print(dir(re))
+['A', 'ASCII', 'DEBUG', 'DOTALL', 'I', 'IGNORECASE', 'L', 'LOCALE', 'M', 'MULTILINE', 'Match', 'NOFLAG', 'Pattern', 'PatternError', 'RegexFlag', 'S', 'Scanner', 'U', 'UNICODE', 'VERBOSE', 'X', '_MAXCACHE', '_MAXCACHE2', '_ZeroSentinel', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', '__version__', '_cache', '_cache2', '_casefix', '_compile', '_compile_template', '_compiler', '_constants', '_parser', '_pickle', '_special_chars_map', '_sre', '_zero_sentinel', 'compile', 'copyreg', 'enum', 'error', 'escape', 'findall', 'finditer', 'fullmatch', 'functools', 'match', 'purge', 'search', 'split', 'sub', 'subn']
 ```
+## Functions
 
-```python
->>> import random as r
->>> for i in range(100):
-   print(r.choice(range(1,1000)),end = " ")
-```
+| Function | Description                                                       |
+| -------- | ----------------------------------------------------------------- |
+| findall  | Returns a list containing all matches                             |
+| search   | Returns a Match object if there is a match anywhere in the string |
+| split    | Returns a list where the string has been split at each match      |
+| sub      | Replaces one or many matches with a string                        |
 
-# Các hàm sinh số ngẫu nhiên khác
-- `randint(a.b)`: Sinh ngẫu nhiên một số nguyên nằm giữa 2 giá trị [a,b], tính cả nút
-- `randrange(start,stop,[step]`: Sinh số ngẫu nhiên nằm trong vùn range tương ứng
+## Metacharacter
+| Character | Description                                                                | 
+| --------- | -------------------------------------------------------------------------- |
+| []        | A set of characters                                                        |
+| \|        | Signals a special sequence (can also be used to escape special characters) |
+| .         | Any character (except newline character)                                   |
+| ^         | Starts with                                                                |
+| $         | Ends with                                                                  |
+| *         | Zero or more occurrences                                                   |
+| +         | One or more occurrences                                                    |
+| ?         | Zero or one occurrences                                                    |
+| {}        | Exactly the specified number of occurrences                                |
+| \|        | Either or                                                                  |
+| ()        | Capture and group                                                          |
+
+## Flags
+You can add flags to the pattern when using regular expressions.
+
+| Flag          | Shorthand | Description                                                                                                        | 
+| ------------- | --------- | ------------------------------------------------------------------------------------------------------------------ | 
+| re.ASCII      | re.A      | Returns only ASCII matches                                                                                         |        
+| re.DEBUG      |           | Returns debug information                                                                                          |        
+| re.DOTALL     | re.S      | Makes the . character match all characters (including newline character)                                           |        
+| re.IGNORECASE | re.I      | Case-insensitive matching                                                                                          |        
+| re.MULTILINE  | re.M      | Returns only matches at the beginning of each line                                                                 |        
+| re.NOFLAG     |           | Specifies that no flag is set for this pattern                                                                     |        
+| re.UNICODE    | re.U      | Returns Unicode matches. This is default from Python 3. For Python 2: use this flag to return only Unicode matches |        
+| re.VERBOSE    | re.X      | Allows whitespaces and comments inside patterns. Makes the pattern more readable                                   |      
+
+## Special Sequences
+A special sequence is a `\` followed by one of the characters in the list below, and has a special meaning:
+
+| Character | Description                                                                                                                                                                                                      |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \A        | Returns a match if the specified characters are at the beginning of the string                                                                                                                                   |
+| \b        | Returns a match where the specified characters are at the beginning or at the end of a word  <br>(the "r" in the beginning is making sure that the string is being treated as a "raw string")                    |
+| \B        | Returns a match where the specified characters are present, but NOT at the beginning (or at the end) of a word  <br>(the "r" in the beginning is making sure that the string is being treated as a "raw string") |
+| \d        | Returns a match where the string contains digits (numbers from 0-9)                                                                                                                                              |
+| \D        | Returns a match where the string DOES NOT contain digits                                                                                                                                                         |
+| \s        | Returns a match where the string contains a white space character                                                                                                                                                |
+| \S        | Returns a match where the string DOES NOT contain a white space character                                                                                                                                        |
+| \w        | Returns a match where the string contains any word characters (characters from a to Z, digits from 0-9, and the underscore _ character)                                                                          |
+| \W        | Returns a match where the string DOES NOT contain any word characters                                                                                                                                            |
+| \Z        | Returns a match if the specified characters are at the end of the string                                                                                                                                         |
 
 
+## Sets
+A set is a set of characters inside a pair of square brackets `[]` with a special meaning:
 
-
-
-
-
-
-
-
-
-
-
+| Set        | Description                                                                                                                             |     
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |  
+| [arn]      | Returns a match where one of the specified characters (`a`, `r`, or `n`) is present                                                     |     
+| [a-n]      | Returns a match for any lower case character, alphabetically between `a` and `n`                                                        |     
+| `[^arn] `  | Returns a match for any character EXCEPT `a`, `r`, and `n`                                                                              |     
+| [0123]     | Returns a match where any of the specified digits (`0`, `1`, `2`, or `3`) are present                                                   |     
+| [0-9]      | Returns a match for any digit between `0` and `9`                                                                                       |     
+| [0-5][0-9] | Returns a match for any two-digit numbers from `00` and `59`                                                                            |     
+| [a-zA-Z]   | Returns a match for any character alphabetically between `a` and `z`, lower case OR upper case                                          |     
+| [+]        | In sets, `+`, `*`, `.`, `\|`, `()`, `$`,`{}` has no special meaning, so `[+]` means: return a match for any `+` character in the string |     

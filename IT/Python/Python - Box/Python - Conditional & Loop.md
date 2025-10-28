@@ -1,6 +1,11 @@
+# Range
+```python
+range([<start>],<end>,[<increment>]:
+```
+
 # For Loop
 ```python
->>> for i in range([<start>],<end>,[<increment>]:
+>>> for i in x:
       <code>
 ```
 
@@ -11,7 +16,23 @@ if <condition>:
 else if <condition2>:
 	<code>
 else:
-	<code
+	<code>
+	
+# Shorthand
+if <condition>: <code>
+<code> if <condition> else <code>
+```
+**pass**: Do nothing
+
+# Match
+```python
+match expression:
+	case x if <condition):
+		code block
+	case y | z: # Combine Value
+		code block
+	case _: # Default Value
+	    code block
 ```
 
 # While Loop
@@ -22,10 +43,8 @@ else:
    <code>
 ```
 
-# Break & Continue
 - `break`: Immediately stop current loop
 - `continue`: End current loop and return to next loop
-
 ```python
 c = 0
 while True:
@@ -41,7 +60,7 @@ while True:
 print("You entered", c, "names")
 ```
 
-# short-circuit operator
+# Short-circuit Logical operator
 Python can quickly and accurately calculate the result of an operation without having to calculate all the parameters of the operation.
 
 ## and Operator
@@ -64,7 +83,6 @@ False
 >>> print(x)
 None
 ```
-
 
 ## or Operator
 ```python
@@ -93,5 +111,27 @@ False
 Nhập số 3
 >>> bool(x)
 True
+```
 
-
+# Iterator
+An iterator is an [[Python - Object|object]] that contains a countable number of values.
+```python
+class MyNumbers:  
+	def __iter__(self):  
+		self.a = 1  
+		return self  
+  
+	def __next__(self):  
+		if self.a <= 20:  
+			x = self.a  
+			self.a += 1  
+			return x  
+		else:  
+			raise StopIteration  
+			
+myclass = MyNumbers()  
+myiter = iter(myclass)  
+  
+for x in myiter:  
+	print(x)
+```

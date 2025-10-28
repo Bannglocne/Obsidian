@@ -4,12 +4,12 @@ os.chdir("D:\\")
 file = open("HALO.txt","r")
 s = file.read()
 print(s)
+file.close()
 ```
 
 # Read
 - `open(<file name>,"r")` : The reader will move to the beginning of the file
 - `open(<file name>,"w")` : Open, delete all information already in the file. If the file does not exist, the command will create an empty text file.
-
 ```python
 >>>file = open("HALO.txt", "r")
 >>>content = file.read()
@@ -18,11 +18,11 @@ Hi, nice to meet you
 >>>content = file.read()
 >>>content
 ' '
+>>>file.close()
 ```
 
 - `read()` always reads data from the reading position onwards,  the second time the reader is at the end of the file so there is no data to read.
 - `tell()` indicate the current position of the reader from the beginning of the file.
-- 
 ```python
 >>>f = open("HALO.txt", "r")
 >>>f.tell()
@@ -83,7 +83,6 @@ Nice to meet you
 ```
 
 ##  writelines()
-
 ```python
 import os
 os.chdir("D:\\")
@@ -95,3 +94,8 @@ f.writelines(A)
 f.close()
 ```
 
+# Delete
+```python
+import os
+os.remove("text.txt")
+```

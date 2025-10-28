@@ -4,43 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "168a916c84315e47",
+        "id": "92e9819147ec0d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "724ebeccf24cc713",
+            "id": "1b65f1d01f23998d",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Personal/Roadmap/Phase One.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Phase One"
+            }
+          },
+          {
+            "id": "963df217054f4911",
+            "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
-              "pinned": true,
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          },
-          {
-            "id": "c08253753db5e1c8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=_42-yrWI_Gc",
-                "title": "Sinh Tồn Một Mình Nơi Hoang Dã 100 Ngày | Phiên Bản Đan Mạch - Full Mùa 8 - YouTube",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Sinh Tồn Một Mình Nơi Hoang Dã 100 Ngày | Phiên Bản Đan Mạch - Full Mùa 8 - YouTube"
-            }
-          },
-          {
-            "id": "6d1c0dd2ce730624",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ],
@@ -90,7 +92,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -123,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3cb9aa83a7bfcd83",
@@ -269,38 +272,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c08253753db5e1c8",
+  "active": "963df217054f4911",
   "lastOpenFiles": [
-    "Personal/To-do List.md",
-    "Personal/Roadmap/Weekly.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-conversations/hi@20251026_211037.md",
-    "Economics/Microeconomics.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "Personal/Roadmap/Phase One.md",
+    "IT/Python/Python.md",
+    "IT/Python/Seaborn.md",
+    "IT/Python/SciPy.md",
+    "IT/Python/Pandas.md",
+    "IT/Python/NumPy.md",
+    "IT/Python/Matplotlib.md",
+    "IT/Database/MySQL.md",
+    "IT/Database/SQL.md",
+    "IT/Database/MongoDB.md",
+    "IT/Python/Python - Box/Python - File.md",
+    "IT/Python/Python - Box/Python - Object.md",
+    "Python - Classes&Object.md",
+    "IT/Python/Python - Box/Python - Package.md",
+    "IT/Python/Python - Box/Python - Basic.md",
+    "IT/Web Development/JS/JS - Box/JS - Basic.md",
+    "IT/Python/Python - Box/Python - String.md",
+    "IT/Python/Python - Box/Python - Bug.md",
+    "IT/Python/Python - Box/Python - Module.md",
+    "IT/Web Development/JS/JS - Box/JS - RegExp.md",
+    "IT/Web Development/JS/JS - Box/JSON.md",
+    "Untitled.md",
+    "IT/Web Development/JS/JS - Box/JS - Module.md",
+    "IT/Python/Python - Box/Python - Conditional & Loop.md",
+    "IT/Python/Python - Box/Python - Recursion.md",
+    "IT/Web Development/JS/JS - Box/JS - Arrays.md",
     "copilot/copilot-conversations",
-    "Excalidraw/Drawing 2025-10-26 21.04.27.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-26 17.36.00.excalidraw.md",
     "Excalidraw",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "IT/Database/SQL.md",
-    "IT/Web Development/CSS/CSS - Box/CSS - Basic.md",
-    "IT/Web Development/JS/JS - Box/JS - Set.md",
-    "Personal/Quotes.md",
-    "Personal/Cert.md",
-    "IT/Web Development/HTML/HTML - Box/HTML - Basic.md",
-    "IT/Web Development/HTML/HTML.md",
     "Untitled.canvas",
     "Recording 20251025213839.m4a",
     "Untitled.base",

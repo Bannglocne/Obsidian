@@ -33,15 +33,10 @@ fruits = ["apple", "banana", "cherry"]
 x, y, z = fruits
 ```
 
-## Global Var & Local Var
+## Scope
 ```python
-def func():  
-	global x  
-	x = "fantastic"
-	
-myfunc()  
-
-print("Python is " + x)
+global x
+nonlocal x
 ```
 
 ## Keyword
@@ -55,39 +50,36 @@ print("Python is " + x)
 # Data Types
 - [[Python - String|String]]
 - [[Python - Numeric|Numeric]]
-- [[Python - Conditional Sentence|Sequence]]
+- [[Python - Conditional & Loop|Sequence]]
 - [[Python - Dictionary|Dictionary]]
 - [[Python - Boolean|Boolean]]
-- Set type: _set_; _forzenset_
+- [[Python - Set|Set]]
 - Binary:  _bytes_; _bytearray_; _memoryview_
 - None: _NoneType_
 
-# Arithmetic Expressions
+# Arithmetic Expressions & Operator
 - `+`, `-`, `*`, `/`, `//`, `%`, `**`
 - `==`, `!=`, `>` , `,` , `>=` , `<=`
 - `+=`, `-=`
-
-## Divmod()
 - `divmod(x, y) = x // y, x % y`
-
-## Eval()
+- `eval()`
 ```python
->>> eval("24 ** 2 - 15")
-561
-
 >>> eval("1+2, 3**4, 14.2")
 (3, 9, 28)
 ```
+- `e`: 13e10 = 13.(10^50)
+- **Bitwise**: `&`, `|`, `^`, `~`, `<<`, `>>`
+---
+> [!NOTE] Precedence
+> `()`
+> `**`
+> `+x`, `-x`, `~x`
+> `*`, `/`, `//`, `%` - `+`, `-`
+> `<<`, `>>`
+> `&` - `^` - `|`
+> `==`,  `!=`,  `>`,  `>=`,  `<`,  `<=`,  `is`,  `is not`,  `in`,  `not in`
+> `not` - `and` - `or`
 
-## Large Exponent
-```python
->>> 2**3**2
-512
->>>(2**3)**2
-64
-```
-- 13e10 = 13.(10^50)
-- 13.e-2 = 13.(10^(-2))
 
 # Stuff
 ## Help

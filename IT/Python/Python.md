@@ -1,30 +1,12 @@
-- Hello World: [[Python - Basic]]
-- Data Types:
-	- String: [[Python - String]]
-	- Numeric: [[Python - Numeric]]
-	- List: [[Python - List]] + [[Python - List of list]]
-	- Dictionary: [[Python - Dictionary]]
-	- Boolean: [[Python - Boolean]]
-	- Comprehension: [[Python - Comprehension]]
-
-- Function: [[Python - Function]]
-
-- OOP: [[Python - Object]]
-
-- Conditional Sentence: [[Python - Conditional Sentence]]
-
-- Module: [[Python - Module]]
-
-- File: [[Python - File]]
-
-- Recursion: [[Python - Recursion]]
-
-- Bug: [[Python - Bug]]
-
-- Libararies:
-	- Numpy: [[NumPy]]
-	- Pandas: [[Pandas]]
-	- Scipy: [[SciPy]]
-	- Seaborn: [[Seaborn]]
-	- Django: [[Django]]
-	- Matplotlib: [[Matplotlib]]
+|                  |                                                                                                                                                                                                      |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hello World      | [[Python - Basic]]                                                                                                                                                                                   |
+| Data Types       | [[Python - String]]<br>[[Python - Numeric]]<br>[[Python - List]]<br>[[Python - List of list]]<br>[[Python - Dictionary]]<br>[[Python - Boolean]]<br>[[Python - Comprehension]]<br>[[Python - Tuple]] |
+| Function         | [[Python - Function]]                                                                                                                                                                                |
+| OOP              | [[Python - Object]], [[JSON]]                                                                                                                                                                        |
+| Condition & Loop | [[Python - Conditional & Loop]]<br>[[Python - Recursion]]                                                                                                                                            |
+| Module           | [[Python - Module]]<br>[[Python - Package]]                                                                                                                                                          |
+| File             | [[Python - File]]                                                                                                                                                                                    |
+| Bug              | [[Python - Bug]]                                                                                                                                                                                     |
+| Libraries        | [[NumPy]]<br>[[Pandas]]<br>[[SciPy]]<br>[[Seaborn]]<br>[[Django]]<br>[[Matplotlib]]                                                                                                                  |
+| Database         | [[MySQL#Python\|MySQL]]<br>[[MongoDB#Python\|MongoDB]]                                                                                                                                                 | 

@@ -19,7 +19,7 @@
 | DOM        | [[JS - DOM]]          |
 | Window     | [[JS - Window]]       |
 | API        | [[JS - API]]          |
-| JSON       | [[JS - JSON]]         |
+| JSON       | [[JSON]]         |
 | AJAX       | [[JS - AJAX]]         |
 | Graphic    | [[JS - Graphic]]      |
 | Libraries  | [[jQuery]], [[React]], [[Node.js]] | 
