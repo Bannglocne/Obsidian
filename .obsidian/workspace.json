@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "92e9819147ec0d9e",
+        "id": "e3c6b6c9dd6006cc",
         "type": "tabs",
         "children": [
           {
-            "id": "1b65f1d01f23998d",
+            "id": "ba06631b99701633",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -17,9 +17,6 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
-                    false,
                     false,
                     false,
                     false,
@@ -36,13 +33,15 @@
             }
           },
           {
-            "id": "963df217054f4911",
+            "id": "a1f42989788015ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Economics/Maths for Economics.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Maths for Economics"
             }
           }
         ]
@@ -254,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,18 +271,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b65f1d01f23998d",
+  "active": "ba06631b99701633",
   "lastOpenFiles": [
+    "Economics/Maths for Economics.md",
     "Personal/Roadmap/Phase One.md",
+    "Economics/Microeconomics.md",
+    "Pasted Image 20251028112654_060.png",
+    "Pasted Image 20251028112641_726.png",
+    "Pasted Image 20251028112627_526.png",
+    "Pasted Image 20251028111850_675.png",
+    "Pasted Image 20251028111129_599.png",
+    "IT/Database/MongoDB.md",
+    "IT/IT.canvas",
+    "IT/Web Development/HTML/HTML.md",
+    "IT/IT.md",
+    "Excalidraw/Drawing 2025-10-28 10.52.09.excalidraw.md",
+    "IT/Database/MySQL.md",
     "IT/Python/Python.md",
     "IT/Python/Seaborn.md",
     "IT/Python/SciPy.md",
     "IT/Python/Pandas.md",
     "IT/Python/NumPy.md",
     "IT/Python/Matplotlib.md",
-    "IT/Database/MySQL.md",
     "IT/Database/SQL.md",
-    "IT/Database/MongoDB.md",
     "IT/Python/Python - Box/Python - File.md",
     "IT/Python/Python - Box/Python - Object.md",
     "Python - Classes&Object.md",
@@ -294,17 +304,10 @@
     "IT/Python/Python - Box/Python - Bug.md",
     "IT/Python/Python - Box/Python - Module.md",
     "IT/Web Development/JS/JS - Box/JS - RegExp.md",
-    "IT/Web Development/JS/JS - Box/JSON.md",
-    "Untitled.md",
-    "IT/Web Development/JS/JS - Box/JS - Module.md",
-    "IT/Python/Python - Box/Python - Conditional & Loop.md",
-    "IT/Python/Python - Box/Python - Recursion.md",
-    "IT/Web Development/JS/JS - Box/JS - Arrays.md",
     "copilot/copilot-conversations",
     "Excalidraw",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Untitled.canvas",
     "Recording 20251025213839.m4a",
     "Untitled.base",
     "Base.base",
@@ -315,12 +318,7 @@
     "IT/Python/Python - Image/Field.png",
     "IT/Python/Python - Image/NameSpace_5.png",
     "IT/Python/Python - Image/NameSpace_4.png",
-    "IT/Python/Python - Image/NameSpace_3.png",
-    "IT/Python/Python - Image/NameSpace_2.png",
-    "IT/Python/Python - Image/NameSpace_1.png",
     "Personal/Roadmap",
-    "Economics/Economics - Box/Surpluses-Shortages.jpg",
-    "Economics/Economics - Box/Economic-Circulation.jpeg",
     "Roadmap.canvas"
   ]
 }

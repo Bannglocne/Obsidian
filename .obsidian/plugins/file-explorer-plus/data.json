@@ -30,7 +30,7 @@
     ]
   },
   "hideFilters": {
-    "active": true,
+    "active": false,
     "tags": [
       {
         "name": "",
@@ -94,13 +94,6 @@
         "active": true,
         "type": "DIRECTORIES",
         "pattern": "IT/Web Development/HTML",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "IT/IT.md",
         "patternType": "STRICT"
       },
       {

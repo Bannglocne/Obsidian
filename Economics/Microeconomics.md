@@ -129,8 +129,8 @@
 
 - Co giãn điểm
 $$
-E_{X,Y}^D = \frac{\%\Delta Q_X}{\%\Delta P_Y} 
-= \frac{\Delta Q_X / Q_X}{\Delta P_Y / P_Y} 
+E_{D} = \frac{\%\Delta Q_D}{\%\Delta P} 
+= \frac{\Delta Q_D / \bar{Q}}{\Delta P_Y / P_Y} 
 = \frac{\Delta Q_X}{\Delta P_Y} \cdot \frac{P_Y}{Q_X} 
 = Q'_X \cdot \frac{P_Y}{Q_X} 
 = \frac{1}{P'_X(Q)} \cdot \frac{P_Y}{Q_X}

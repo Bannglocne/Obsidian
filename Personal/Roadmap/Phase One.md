@@ -4,136 +4,70 @@ kanban-plugin: board
 
 ---
 
-## Week 4
+## Week 1
 
-- [ ] Latex
-- [ ] Python Basic
 - [ ] Microeconomics 1
-- [ ] ILP - Gramma 7
-- [ ] Introduction to Management
-- [ ] Calculus - Relearn
-- [ ] Algebra - Relearn
-
-
-## Week 5
-
-- [ ] n8n
-- [ ] JavaScript Advanced 1
-- [ ] Node.js
-- [ ] React
-- [ ] Microeconomics 2
 - [ ] ILP - Gramma 14
+- [ ] Latex 1
+- [ ] Python 1
+- [ ] Introduction to Management
+
+
+## Week 2
+
+- [ ] Microeconomics 2
+- [ ] ILP - Gramma 28
+- [ ] Latex 2
+- [ ] Python 2
 - [ ] Theory in Sport
 
 
 ## Week 3
 
-- [ ] Tin học Đại cương
-- [ ] JavaScript Advanced 2
-- [ ] Vitest
-- [ ] Vite
-- [ ] CSS Preprocessors
-- [ ] CSS Architecture
-- [ ] Data Source
-- [ ] Data Format
-- [ ] Preprocessing Techniques
 - [ ] Microeconomics 3
-- [ ] ILP - Gramma 21
+- [ ] ILP - Gramma 35
+- [ ] Tin học Đại cương 1
+- [ ] Data Format
+- [ ] Data Source
 
 
 ## Week 4
 
-- [ ] JavaScript Advanced 3
-- [ ] Tailwind
-- [ ] Machine Learning
-- [ ] Scikit-learn
-- [ ] Authentication Strategies
-- [ ] Web Security Basics
-- [ ] Web Components
 - [ ] Microeconomics 4
-- [ ] ILP - Gramma 28
+- [ ] ILP - Vocabulary 9
+- [ ] Tin học Đại cương 2
+- [ ] Preprocessing Techniques
 
 
 ## Week 5
 
-- [ ] TypeScript
-- [ ] Machine Learning
-- [ ] Classification
-- [ ] Regression
-- [ ] Clustering
 - [ ] Macroeconomics 1
-- [ ] ILP - Gramma 35
+- [ ] ILP - Vocabulary 16
+- [ ] Tin học Đại cương 3
+- [ ] Machine Learning
 
 
 ## Week 6
 
-- [ ] GraphQL
-- [ ] Astro
-- [ ] Progressive Web Apps
-- [ ] Static Site Generators
-- [ ] Dimensionality Reduction
-- [ ] Reinforcement Learning
-- [ ] ILP - Vocabulary 2
+- [ ] Macroeconomics 2
+- [ ] ILP - Words and Phrases 10
+- [ ] n8n 1
+- [ ] Scikit-learn
 
 
 ## Week 7
 
-- [ ] React Native
-- [ ] Electron
-- [ ] APIs
-- [ ] Caching
-- [ ] Web Security
-- [ ] Model Evaluation
-- [ ] Validation Techniques
-- [ ] Macroeconomics 2
-- [ ] ILP - Vocabulary 9
+- [ ] Macroeconomics 3
+- [ ] IELTS - Roadmap
+- [ ] n8n 2
+- [ ] Classification
 
 
 ## Week 8
 
-- [ ] Testing
-- [ ] CI/CD
-- [ ] Databases
-- [ ] Scaling
-- [ ] Neural Network
-- [ ] Deep Learning Libraries
-- [ ] Macroeconomics 3
-- [ ] ILP - Vocabulary 16
-
-
-## Week 9
-
-- [ ] Docker
-- [ ] Software Design and Architecture
-- [ ] Design and Development Principles
-- [ ] Convolutional Neural Network
-- [ ] Deep Learning Architectures
 - [ ] Macroeconomics 4
-- [ ] ILP - Words and Phrases 5
-
-
-## Week 10
-
-- [ ] Kafka
-- [ ] Elasticsearch
-- [ ] Nginx
-- [ ] Real Time Data
-- [ ] Attention Mechanisms
-- [ ] Recurrent Neural Networks
-- [ ] Applications of CNNs
-- [ ] Principles of Marketing 1
-- [ ] ILP - Words and Phrases 10
-
-
-## Week 11
-
-- [ ] GraphQL
-- [ ] Autoencoders
-- [ ] Generative Adversarial Networks
-- [ ] Natural Language Processing
-- [ ] Explainable AI
-- [ ] Principles of Marketing 2
-- [ ] IELTS - Roadmap
+- [ ] n8n 3
+- [ ] Regression
 
 
 ***
@@ -150,6 +84,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false,false,false],"show-checkboxes":true,"new-card-insertion-method":"append","hide-card-count":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false],"show-checkboxes":true,"new-card-insertion-method":"append","hide-card-count":false}
 ```
 %%

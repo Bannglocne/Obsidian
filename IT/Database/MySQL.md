@@ -3,7 +3,7 @@
 ```bash
 -m pip install mysql-connector-python
 ```
-**Create Connection**
+
 ```python
 import mysql.connector
 mydb = mysql.connector.connect(  
@@ -12,37 +12,15 @@ mydb = mysql.connector.connect(
 	password="yourpassword"
 	database="mydatabase"
 )
-```
+mycursor = mydb.cursor()
 
-**Create Database + Table**
-```python
-mycursor = mydb.cursor()    
-mycursor.execute("CREATE DATABASE mydatabase")
-mycursor.execute("CREATE TABLE customers (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255), address VARCHAR(255))")
-```
+sql =" " # MySQL statements
+val = [ ] # Data used in SQL statements
 
-**Insert Into**
-```python
-sql = "INSERT INTO customers (name, address) VALUES (%s, %s)"  
-val = [
-	("Loc", "Hanoi") ,
-	 ("Pham Hang", "Hanoi")
- ]
-mycursor.execute(sql, val)  
+mycursor.execute(sql, val)  # Run MySQL statments
+
+myresult = mycursor.fetchall() # Get all rows
+myresult = mycursor.fetchone() # Get only the next row from the result
+
 mydb.commit()  # Require to make the changes
-```
-
-**Select**
-```python
-mycursor.execute("SELECT name, address FROM customers")
-myresult = mycursor.fetchall()
-myresult = mycursor.fetchone() # return the first row of the result
-```
-
-**Where**
-```python
-sql = "SELECT * FROM customers WHERE address = %s"  
-adr = ("Yellow Garden 2", )  
-mycursor.execute(sql, adr)  
-myresult = mycursor.fetchall()
 ```
