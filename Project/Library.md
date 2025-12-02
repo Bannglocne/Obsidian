@@ -110,7 +110,8 @@
 - Đầu xanh tuổi trẻ
 - Lũ người quỷ ám
 - Là bóng hay là hình
-- Anh em nhà karamazov
+- Anh em nhà Karamazov
+- Chàng ngốc
 
 # George Orwell
 - Trại súc vật 📕✅
@@ -354,3 +355,5 @@
 - Đừng Bao Giờ Chia Đôi Lợi Ích Trong Mọi Cuộc Đàm Phán - Chris Voss
 - Critique of Pure Reason - Immanuel Kant
 - The Psychopathology of Everyday Life - Sigmund Freud
+- Thế giới của Sophie - Jostein Gaarder
+- Xấu - Natsuo Kirino

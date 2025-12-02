@@ -4,47 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c6b6c9dd6006cc",
+        "id": "a1de93702ac86fda",
         "type": "tabs",
         "children": [
           {
-            "id": "ba06631b99701633",
+            "id": "c47d396cfed652cd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Personal/Roadmap/Phase One.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Personal/Base/IT - Base.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Phase One"
+              "icon": "lucide-file",
+              "title": "IT - Base"
             }
           },
           {
-            "id": "a1f42989788015ca",
+            "id": "6c4f83f7cf4d9357",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Economics/Maths for Economics.md"
+                "file": "Economics/Economics - Image/Độ_co_giãn_của_cầu_theo_giá.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Maths for Economics"
+              "icon": "lucide-image",
+              "title": "Độ_co_giãn_của_cầu_theo_giá"
+            }
+          },
+          {
+            "id": "3aeacd644d81f4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training SoDiTEC 2-12-2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Training SoDiTEC 2-12-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,15 +62,15 @@
       {
         "id": "4cb3553dedc59eda",
         "type": "tabs",
-        "dimension": 65.41554959785523,
+        "dimension": 76.19047619047619,
         "children": [
           {
-            "id": "64335693d42d2fa0",
+            "id": "f40926ee8aef672e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -90,7 +96,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -101,31 +107,30 @@
         ]
       },
       {
-        "id": "39aaa422930fbb84",
+        "id": "5c758f03c653dee9",
         "type": "tabs",
-        "dimension": 34.584450402144775,
+        "dimension": 23.809523809523807,
         "children": [
           {
-            "id": "5f10a4778e95c8d5",
+            "id": "8c5fe36b2e381a9a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Roadmap/Phase One.md",
+                "file": "Training SoDiTEC 2-12-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phase One"
+              "title": "Outline of Training SoDiTEC 2-12-2025"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3cb9aa83a7bfcd83",
@@ -134,7 +139,7 @@
       {
         "id": "0abb659a3060afe3",
         "type": "tabs",
-        "dimension": 67.00507614213198,
+        "dimension": 48.95833333333334,
         "children": [
           {
             "id": "d3a75655651028fa",
@@ -165,7 +170,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3747811467541914,
+                  "scale": 0.37478114675419194,
                   "close": true
                 }
               },
@@ -187,24 +192,14 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "8d7bd15f90eacf88",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "25b82c353a47e18d",
         "type": "tabs",
-        "dimension": 32.99492385786802,
+        "dimension": 51.04166666666666,
         "children": [
           {
             "id": "1d39147d7e704355",
@@ -217,108 +212,82 @@
             }
           },
           {
-            "id": "23aa86edd0ae1b9c",
+            "id": "8d7bd15f90eacf88",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "IT/Web Development/JS/JS - Box/JS - Set.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for JS - Set"
-            }
-          },
-          {
-            "id": "0339e686077e2ff7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Personal/Roadmap/Phase One.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Phase One"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
-      "random-note:Open random note": true,
-      "bases:Create new base": true,
-      "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba06631b99701633",
+  "active": "3aeacd644d81f4d6",
   "lastOpenFiles": [
-    "Economics/Maths for Economics.md",
-    "Personal/Roadmap/Phase One.md",
+    "Training SoDiTEC 2-12-2025.md",
+    "Economics/Economics - Image/Độ_co_giãn_của_cầu_theo_giá.png",
+    "Economics/Economics - Image/Economic-Circulation.jpeg",
+    "Economics/Economics - Image/Hàm_cầu.png",
+    "Economics/Economics - Image/Hàm_cung.png",
+    "Economics/Economics - Image/PPF-Curve.jpg",
+    "Economics/Economics - Image/Surpluses-Shortages.jpg",
+    "Economics/Economics - Image/Thay_đổi_giá_cân_bằng_1.png",
+    "Economics/Economics - Image/Thay_đổi_giá_cân_bằng_2.png",
+    "Economics/Economics - Image/Thay_đổi_giá_cân_bằng_3.png",
+    "Economics/Economics - Image/Vị_trí_của_mức_giá_trên_đường_cầu.png",
+    "IT/IT - Box/Python - Basic.md",
+    "IT/IT - Box/JS - AJAX.md",
+    "IT/IT - Box/HTML - APIs.md",
+    "IT/IT - Box/CSS - Text.md",
+    "Personal/Base/IT - Base.md",
+    "Personal/Phases.md",
+    "IT/IT - Box",
+    "Project/Stoicism.md",
+    "Project/Library.md",
+    "Project/Journal.md",
+    "Project/Deep Work.md",
+    "Personal/To-do List.md",
+    "Personal/Phase/Phase 1.md",
+    "Personal/Phase/Phase 2.md",
+    "Personal/Phase/Phase 3.md",
+    "Personal/Phase/Phase 0.md",
+    "Personal/Base/Art - Base.md",
+    "Personal/Base/Economics - Base.md",
+    "IT/Web Development/Latex.md",
+    "Personal/Phase/Phase 4.md",
+    "Personal/Phase/Untitled.md",
+    "Personal/Phase",
+    "Personal/Phase 1.md",
     "Economics/Microeconomics.md",
-    "Pasted Image 20251028112654_060.png",
-    "Pasted Image 20251028112641_726.png",
-    "Pasted Image 20251028112627_526.png",
-    "Pasted Image 20251028111850_675.png",
-    "Pasted Image 20251028111129_599.png",
-    "IT/Database/MongoDB.md",
+    "Personal/Base",
+    "Personal/Quotes.md",
+    "IT/Tools/Hotkeys.md",
+    "Box",
+    "Untitled.canvas",
+    "Base.base",
     "IT/IT.canvas",
-    "IT/Web Development/HTML/HTML.md",
-    "IT/IT.md",
-    "Excalidraw/Drawing 2025-10-28 10.52.09.excalidraw.md",
-    "IT/Database/MySQL.md",
-    "IT/Python/Python.md",
-    "IT/Python/Seaborn.md",
-    "IT/Python/SciPy.md",
-    "IT/Python/Pandas.md",
-    "IT/Python/NumPy.md",
-    "IT/Python/Matplotlib.md",
-    "IT/Database/SQL.md",
-    "IT/Python/Python - Box/Python - File.md",
-    "IT/Python/Python - Box/Python - Object.md",
-    "Python - Classes&Object.md",
-    "IT/Python/Python - Box/Python - Package.md",
-    "IT/Python/Python - Box/Python - Basic.md",
-    "IT/Web Development/JS/JS - Box/JS - Basic.md",
-    "IT/Python/Python - Box/Python - String.md",
-    "IT/Python/Python - Box/Python - Bug.md",
-    "IT/Python/Python - Box/Python - Module.md",
-    "IT/Web Development/JS/JS - Box/JS - RegExp.md",
     "copilot/copilot-conversations",
     "Excalidraw",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Recording 20251025213839.m4a",
-    "Untitled.base",
-    "Base.base",
-    "IT/Python/Python - Image/Seaborn_plot_types.png",
-    "IT/Python/Python - Image/SciPy_Graph.png",
-    "IT/Database/SQL - Box",
-    "IT/Database",
-    "IT/Python/Python - Image/Field.png",
-    "IT/Python/Python - Image/NameSpace_5.png",
-    "IT/Python/Python - Image/NameSpace_4.png",
-    "Personal/Roadmap",
     "Roadmap.canvas"
   ]
 }

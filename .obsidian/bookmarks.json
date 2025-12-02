@@ -16,27 +16,19 @@
       "path": "IT/Tools/Hotkeys.md"
     },
     {
-      "type": "group",
-      "ctime": 1757950430909,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1757950424356,
-          "path": "IT/Web Development/HTML/HTML - Box/HTML - APIs.md",
-          "title": "HTML - APIs"
-        },
-        {
-          "type": "file",
-          "ctime": 1760410165181,
-          "path": "IT/Web Development/JS/JS - Box/JS - Set.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1760410316012,
-          "path": "IT/Web Development/JS/JS - Box/JS - Maps.md"
-        }
-      ],
-      "title": "Undone"
+      "type": "file",
+      "ctime": 1763973855291,
+      "path": "Personal/Base/IT - Base.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1764051570696,
+      "path": "Personal/Base/Art - Base.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1764051582392,
+      "path": "Personal/Base/Economics - Base.md"
     }
   ]
 }

@@ -127,28 +127,25 @@
 
 #### Co dãn theo giá (E<sub>D</sub>)
 
-- Co giãn điểm
-$$
-E_{D} = \frac{\%\Delta Q_D}{\%\Delta P} 
-= \frac{\Delta Q_D / \bar{Q}}{\Delta P_Y / P_Y} 
-= \frac{\Delta Q_X}{\Delta P_Y} \cdot \frac{P_Y}{Q_X} 
-= Q'_X \cdot \frac{P_Y}{Q_X} 
-= \frac{1}{P'_X(Q)} \cdot \frac{P_Y}{Q_X}
-$$
-- Co giãn khoảng
-$$
-E_{X,Y}^D = \frac{\%\Delta Q_X}{\%\Delta P_Y} 
-= \frac{\Delta Q_X / Q_X}{\Delta P_Y / P_Y}
-= \frac{(Q_{2X} - Q_{1X})}{\left(\frac{Q_{2X} + Q_{1X}}{2}\right)} 
-\cdot \frac{\left(\frac{P_{2Y} + P_{1Y}}{2}\right)}{(P_{2Y} - P_{1Y})}
-$$
-$$
-= \frac{(Q_{2X} - Q_{1X})}{(Q_{2X} + Q_{1X})/2} 
-\cdot \frac{(P_{2Y} + P_{1Y})/2}{(P_{2Y} - P_{1Y})}
-= \frac{(Q_{2X} - Q_{1X})}{(Q_{2X} + Q_{1X})} 
-\cdot \frac{(P_{2Y} + P_{1Y})}{(P_{2Y} - P_{1Y})}
-$$
+$$E_D = \frac{\Delta Q_D \%}{\Delta P \%} = \frac{\Delta Q_D / \bar{Q}_D}{\Delta P / \bar{P}} = \frac{\Delta Q_D}{\Delta P} \times \frac{\bar{P}}{\bar{Q}_D}$$
 
+Với:
+$$\bar{P} = \frac{P_1 + P_2}{2} ; \quad \bar{Q}_D = \frac{Q_1 + Q_2}{2}$$
+![[Độ_co_giãn_của_cầu_theo_giá.png]]
+
+Độ co giãn tại 1 điểm:
+$$E_D = \frac{dQ}{dP} \times \frac{P}{Q_D} = a \times \frac{P}{Q_D}$$
+
+Nếu hàm số cầu có dạng $P = f(Q)$ thì độ co giãn điểm được tính theo công thức:
+$$E_D = \frac{1}{\frac{dP}{dQ}} \times \frac{P}{Q_D}$$
+
+**Tính chất**
+- E<sub>D</sub> luôn có giá trị âm, ta quan tâm giá trị tuyệt đối
+- E<sub>D</sub> > 1: Cầu co giãn nhiều
+- E<sub>D</sub> < 1: Cầu co giãn ít
+- E<sub>D</sub> = 1: Cầu co giãn đơn vị
+- E<sub>D</sub> = 0: Cầu hoàn toàn không co giãn
+- E<sub>D</sub> = ∞: Cầu hoàn toàn co giãn (Trong [[#Thị trường|Thị trường Cạnh tranh hoàn toàn]])
 
 **Các nhân tố tác động:**
 1. Tính thay thế của sản phẩm
@@ -168,6 +165,12 @@ E_I = \frac{\%\Delta Q_D}{\%\Delta I}
 = \frac{\Delta Q_D}{Q_D} \times \frac{I}{\Delta I}
 $$
 
+**Tính chất**
+- E<sub>I</sub> > 0: Hàng hoá thông thường
+- E<sub>I</sub> < 1: Hàng thiết yếu
+- E<sub>I</sub> > 1: Hàng cao cấp
+- E<sub>I</sub> < 0: Hàng cấp thấp
+
 > [!success] Ứng dụng
 > Dự đoán mức độ thay đổi trong cơ cấu hàng hoá và dịch vụ khi nền kinh tế tăng trưởng, khi mọi người trở nên khá giả hơn.
 
@@ -177,6 +180,11 @@ E_{XY} = \frac{\%\Delta Q_{DX}}{\%\Delta P_{Y}}
 = \frac{\frac{\Delta Q_{DX}}{Q_{DX}}}{\frac{\Delta P_{Y}}{P_{Y}}} 
 = \frac{\Delta Q_{DX}}{Q_{DX}} \times \frac{P_{Y}}{\Delta P_{Y}}
 $$
+
+**Tính chất**
+- E<sub>XY</sub> > 0: Hai mặt hàng thay thế cho nhau được
+- E<sub>I</sub> < 0: Hai mặt hàng bổ sung lẫn nhau
+- E<sub>I</sub> = 0: Hai mặt hàng độc lập
 
 ### Độ co giãn của Cung theo giá (E<sub>S</sub>)
 > Đo lường phản ứng của người sản xuất, biểu hiện qua sự thay đổi lượng hàng được cung ứng khi giá cả hàng hoá và dịch vụ thay đổi

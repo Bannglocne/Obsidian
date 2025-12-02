@@ -1,7 +1,3 @@
-# Vim Basic
-
-# Hot Keys
-
 ## Windows
 
 | Function       | Hotkeys        |

@@ -1,7 +1,7 @@
 {
   "hideStrictPathFilters": true,
   "pinFilters": {
-    "active": true,
+    "active": false,
     "tags": [
       {
         "name": "",
@@ -44,20 +44,6 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "Economics",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "Excalidraw",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
         "pattern": "Project",
         "patternType": "STRICT"
       },
@@ -65,14 +51,7 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "Photography",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "Personal",
+        "pattern": "Art",
         "patternType": "STRICT"
       },
       {
@@ -86,28 +65,35 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "IT/Web Development/CSS",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "IT/Web Development/HTML",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "IT/Web Development/JS",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
         "pattern": "IT/Web Development",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "IT/Database",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "IT/Python",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "IT",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Economics",
         "patternType": "STRICT"
       }
     ],
