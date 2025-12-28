@@ -1,16 +1,14 @@
-- [ ] CCCD
-- [ ] Bàn nâng hạ
-- [ ] Kệ kê nghiêng sách
-- [ ] Pocoyo, Pororo, Robot Trái cây
+- [ ] CCCD 
 - [ ] LI - 900
-- [ ] Kurzgesagt - Phong cách thiết kế
 - [ ] slow shutter speed
-- [ ] etfs - voo, vxus, vti, qqq, gld
 - [ ] Cơ sở văn hoá việt nam
 - [ ] Lucid dream / Hyponastic Nap
 - [ ] Trà 
-- [ ] Trả sách
 - [ ] Lovecraft
 
+- [ ] Sách (PDF + Máy đọc sách)
+- [ ] Nhạc (Tải + Soundcloud + Spotify)
+- [ ] Game (Xoá)
+- [ ] Ảnh (Icloud + )
 # Box
 - Jeston Nano
