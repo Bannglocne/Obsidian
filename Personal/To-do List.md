@@ -9,6 +9,10 @@
 - [ ] Sách (PDF + Máy đọc sách)
 - [ ] Nhạc (Tải + Soundcloud + Spotify)
 - [ ] Game (Xoá)
-- [ ] Ảnh (Icloud + )
+- [ ] Ảnh (Icloud + Lap + Git + Máy ảnh)
+- [ ] Plan 2026 (Figma + Obsidian + Insta HP) (Ưu tiên Stock + Quay chụp + IELTS + Tiền + LaTeX)
+- [ ] Social (Detox)
+
+
 # Box
 - Jeston Nano
