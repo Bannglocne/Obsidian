@@ -1,9 +1,30 @@
 
-# Lập trình hướng đối tượng (OOP)
+> [!NOTE] Note
+> In Python, all data (numbers, strings, lists, etc.) are objects.
+
+
+# Object-Oriented Programming (OOP)
 - **Object**:
 	- Attribute: Information of Object
 	- Method: Actions that Object can perform
 - Objects with similar properties are grouped together in a **Class**.
+
+## Mutable $ Immutable Data
+> If `<obj1>` **is** `<obj2>` = **True**, `<obj1>` == `<obj2>` = **True**. The opposite is not true.
+> A **is** B = **True** <=> `id(A)` = `id(B)`
+
+
+| Immutable                                    | Mutable         |
+| -------------------------------------------- | --------------- |
+| int, float, complex, bool, str, range, tuple | list, set, dict |
+
+
+## Classify Data Types
+
+| Atom                      | Container                          | Iterable                                                      | Sequence |
+| ------------------------- | ---------------------------------- | ------------------------------------------------------------- | -------- |
+| int, float, complex, bool | Contains multiple other data objects inside<br>range, str, tuple, list, set, dict | Can used `in` and `for`<br>str, range, tuple, list, set, dict | Can used `in` and `for`; Access **index** <br>str,range,tuple,list         |
+
 
 # Create Object & Class
 ```python

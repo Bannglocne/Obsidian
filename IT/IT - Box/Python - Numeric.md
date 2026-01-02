@@ -15,3 +15,8 @@
 ```
 
 # Complex
+```python
+>>>x = complex(3, 5)
+>>>y = complex('3+5j')
+>>>z = 3 + 5j
+```

@@ -136,6 +136,13 @@
 - Không gia đình📕 ✅
 - Trong gia đình 
 
+# H.P. Lovecraft
+- The Call of Cthulhu and Other Weird Stories
+- The Shadow Over Innsmouth
+- The Whisperer in Darkness
+- The Dunwich Horror
+- At the Mountains of Madness
+
 # Hugh Howey
 - Len chùi
 - Ca trực
