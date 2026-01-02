@@ -4,17 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "a1de93702ac86fda",
+        "id": "e9d2f479a4e3dec4",
         "type": "tabs",
         "children": [
           {
-            "id": "841ec9e4d62d65d8",
+            "id": "20568f6ba9a7dda8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Personal/2026.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "2026"
             }
           }
         ]
@@ -84,12 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Personal/2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026"
             }
           }
         ]
@@ -114,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Personal/2026.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 2026"
             }
           },
           {
@@ -204,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "841ec9e4d62d65d8",
+  "active": "20568f6ba9a7dda8",
   "lastOpenFiles": [
     "Personal/2026.md",
     "IT/IT - Box/Python - Object.md",
