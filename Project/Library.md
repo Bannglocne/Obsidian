@@ -23,6 +23,7 @@
 
 # Carlos Ruiz Zafón
 - Trò chơi của thiên thần 
+- Tù nhân của thiên đường
 - Mê cung của linh hồn
 - Bóng hình của gió
 
