@@ -1,7 +1,8 @@
 [
   "table-editor-obsidian",
   "obsidian-kanban",
-  "file-explorer-plus",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-chartsview-plugin",
+  "insert-heading-link"
 ]

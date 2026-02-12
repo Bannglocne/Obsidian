@@ -22,12 +22,15 @@
 - How to become a straight A student
 
 # Carlos Ruiz Zafón
+```
 - Trò chơi của thiên thần 
 - Tù nhân của thiên đường
 - Mê cung của linh hồn
 - Bóng hình của gió
+```
 
 # DK
+```
 - The Architecture Book
 - The Art Book
 - The Astronomy Book
@@ -67,7 +70,9 @@
 - The Economics Book 2
 - The Politics Book 2
 - The Philosophy Book 2
+```
 
+```
 - How Art Works
 - How the Body Works
 - How the Brain Works
@@ -76,6 +81,7 @@
 - How Food Works
 - How Management Works
 - How money Work
+```
 
 # Dazai Osamu
 - Tà dương
@@ -106,13 +112,23 @@
 
 # Fyodor Dostoevsky
 - Tội ác và trừng phạt
-- Đêm trắng
+- Đêm trắng ✅
 - Tomorrow die yesterday
 - Đầu xanh tuổi trẻ
 - Lũ người quỷ ám
 - Là bóng hay là hình
 - Anh em nhà Karamazov
 - Chàng ngốc
+
+# Frank Herbert
+```
+- Dune
+- Dune Messiah
+- Children of Dune
+- God Emperor of Dune
+- Heretics of Dune
+- Chapterhouse : Dune
+```
 
 # George Orwell
 - Trại súc vật 📕✅
@@ -130,7 +146,9 @@
 - Kafka bên bờ biển
 - Biên niên ký chim vặn dây cót
 - Rừng Na Uy
-- 1Q84
+```
+- 1Q84 (1 - 2 - 3)
+```
 - Lắng nghe gió hát ✅
 
 # Hector Malot
@@ -145,9 +163,11 @@
 - At the Mountains of Madness
 
 # Hugh Howey
+```
 - Len chùi
 - Ca trực
 - Cát bụi
+```
 - Trạm tín hiệu số 23
 
 # Jack London
@@ -155,11 +175,13 @@
 - Nanh trắng ✅
 
 # Jonas Jonasson
+```
 - Ông trăm tuổi trèo qua cửa sổ và biến mất
 - Ông trăm tuổi tái xuất và giải cứu thế giới
 - Cô gái mù chữ phá bom nguyên tử
 - Bà tóc tím, nhà tiên tri và gã ngốc chồng lại tận thế
 - Anders sát thủ cùng bè lũ
+```
 
 # Johann Hari
 - Lost connection
@@ -179,11 +201,14 @@
 - Không hơn một xu, không kém một xu
 
 # Kawabata Yasunari
-- Hồ
+```
 - Xứ Tuyết
-- Người đẹp ngủ mê
 - Ngàn cánh hạc
 - Tiếng núi
+- Hồ
+- Người đẹp ngủ mê
+- Đẹp và buồn
+```
 
 # Keigo Higashino
 - Điều Kỳ Diệu Của Tiệm Tạp Hóa NAMIYA
@@ -201,18 +226,24 @@
 
 # Lev Tolstoy
 - Anna Karenina
-- Chiến tranh và Hoà bình
+```
+- Chiến tranh và Hoà bình (1 -2 -3)
+```
 
 # Lois Lowry
+```
 - Người truyền ký ức
 - Tìm lại màu xanh
 - Người truyền tin
 - Con trai
+```
 
 # Lưu Từ Hân
+```
 - Tam thể ✅
 - Khu rừng đen tối ✅
 - Tử thần sống mãi ✅
+```
 
 # Luis Sepulveda
 - Chuyện con mèo dạy hải âu bay 📕✅
@@ -221,14 +252,20 @@
 - Chuyện chú chó tên là trung thành
 
 # Mario Puzo
+```
 - Ông trùm cuối cùng
 - Luật im lặng
 - Bố già 📕✅
 - Đất máu Sicily
+- Cha con giáo hoàng
+```
+
+```
 - Đấu trường u ám
 - Tổng thống K thứ tư
-- Cha con giáo hoàng
 - Đất tiền đất bạc
+- Dại thì chết`
+```
 
 # Michel Bussi
 - Hoa súng đen
@@ -274,11 +311,13 @@
 - Rồng đỏ
 
 # Tim Marshall
-- Những tù nhân của địa lý
 - Chết cho màu cờ
 - Chia rẽ
+```
 - Quyền lực của địa lý
 - Tương lai của địa lý
+- Những tù nhân của địa lý
+```
 
 # Vladimir Nabokov
 - Lolita
@@ -287,7 +326,9 @@
 
 # Victor Hugo
 - Thằng gù nhà thờ Đức Bà
-- Những người khốn khổ
+```
+- Những người khốn khổ (1 - 2 - 3)
+```
 
 # William B. Irvine
 - Chủ Nghĩa Khắc Kỷ - Phong Cách Sống Bản Lĩnh Và Bình Thản ✅
@@ -295,8 +336,10 @@
 - Thực Hành Khắc Kỷ
 
 # Yuval Noah Harari
+```
 - Lược sử loài người 📕
 - Lược sử tương lai 📕
+```
 - 21 Bài Học Cho Thế Kỷ 21
 
 # $123
@@ -310,7 +353,6 @@
 - Kiêu hãnh và định kiến - Jane Austen
 - Women in love - D. H. Lawrence 📕
 - Thép đã tôi thế đấy - Nikolai Alekseyevich Ostrovsky 📕
-- Xứ cát - Frank Herbert
 - Búp sen xanh - Sơn Tùng 📕✅
 - Bên rặng tuyết sơn - Swami Jyoti ✅
 - Chuyện người tuỳ nữ - Margaret Atwood
@@ -343,7 +385,7 @@
 - A little life -  Hanya Yanagihara
 - Sự tiến hoá của tri thức - Jurgen Renn
 - Huyễn tưởng về bình thường  - Gabor Maté, Daniel Maté
-- Trường ca achilles - Madeline Miller
+- Trường ca Achilles - Madeline Miller
 - Ngôi nhà bên bờ biển xanh thẳm - TJ Klune
 - Đi tìm lẽ sống - Viktor Emil Frankl
 - An uncommon way to wealth - Victor D'Argent
@@ -355,7 +397,7 @@
 - Chân dung của Dorian Gray - Oscar Wilde
 - Principles - Ray Dalio
 - Bên kia thiện ác - Friedrich Nietzsche
- - Bá tước Dracula - Bram Stoker
+- Bá tước Dracula - Bram Stoker
 - Nhật ký Anne Frank - Anne Frank
 - Quả chuông ác mộng - Sylvia Plath
 - Thần khúc - Dante Alighieri
