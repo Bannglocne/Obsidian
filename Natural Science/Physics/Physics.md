@@ -83,7 +83,7 @@ The precision of a measuring system is related to the **uncertainty** in the mea
 3. When combining measurements with different degrees of precision, the number of significant digits in the final answer can be no greater than the number of significant digits in the least-precise measured value.
 	- For multiplication and division, the result should have the same number of significant figures as the quantity with the least number of significant figures entering into the calculation.
 	- For addition and subtraction, the answer can contain no more decimal places than the least-precise measurement
-
+---
 # II. VECTORS
 ## 1. Scalars and Vectors
 **Scalar** is a synonym of “number.” Time, mass, distance, length, volume, temperature, and energy are examples of scalar quantities.
@@ -136,7 +136,28 @@ Vectors can be added together and multiplied by scalars.
 
 - The **vector product** of two vector $\vec{A}$ and $\vec{B}$ is denoted by $\vec{A} \times \vec{B}$ and is often referred to as a **cross product**. The vector product is a vector that has its direction perpendicular to both vector $\vec{A}$ and $\vec{B}$. In other words, vector $\vec{A} \times \vec{B}$ is perpendicular to the plane that contains  $\vec{A}$ and $\vec{B}$. The magnitude of the vector product is defined as $$|\vec{A} \times \vec{B}| = AB \sin{\varphi}$$
 where angle $\varphi$, between the two vectors, is measured from vector $\vec{A}$ (first vector in the product) to vector $\vec{B}$ (second vector in the product), and is between 0 and 180
-	- $ $\vec{A}\times \vec{B} = -\vec{B}\times \vec{A}$$
+	- $\vec{A}\times \vec{B} = -\vec{B}\times \vec{A}$$
 	- $\vec{A}\times(\vec{B} + \vec{C}) = \vec{A}\times\vec{B} + \vec{A}\times\vec{C}$
 	- $$ \begin{cases} \hat{\mathbf{i}} \times \hat{\mathbf{j}} = \hat{\mathbf{k}}  \\ \hat{\mathbf{j}} \times \hat{\mathbf{k}} = \hat{\mathbf{i}} \\ \hat{\mathbf{k}} \times \hat{\mathbf{i}} = \hat{\mathbf{j}} \end{cases} $$
 	- $\vec{\mathbf{C}} = \vec{\mathbf{A}} \times \vec{\mathbf{B}} = (A_y B_z - A_z B_y) \hat{\mathbf{i}} + (A_z B_x - A_x B_z) \hat{\mathbf{j}} + (A_x B_y - A_y B_x) \hat{\mathbf{k}}$
+---
+# III. MOTION ALONG A STRAIGHT LINE
+## 1. Position, Displacement, and Average Velocity
+- **Position**: Where an object is at any particular time. => The change in position is called **displacement**
+- A **frame of reference**: An arbitrary set of axes from which the position and motion of an object are described.
+
+-> Displacement: $\triangle x = x_f - x_0$
+
+-> Total displacement: $\triangle x_\text{Total} = \Sigma \triangle x_i$
+
+- **Average Velocity**: 
+$$\text{Average velocity} = \bar{v} = \frac{\text{Displacement between two points}}{\text{Elapsed time between two points}}$$
+$$\bar{v} = \frac{\Delta x}{\Delta t} = \frac{x_2 - x_1}{t_2 - t_1}$$
+## 2. Instantaneous Velocity and Speed
+1. The **instantaneous velocity**(_simple velocity_) of an object is the limit of the average velocity as the elapsed time approaches zero, or the derivative of $x$ with respect to $t$:
+$$v(t) = \lim_{\Delta t \to 0} \frac{x(t + \Delta t) - x(t)}{\Delta t} = \frac{dx(t)}{dt}$$
+
+2. **Speed**: $$\text{Average speed} = \bar{s} = \frac{\text{Total distance}}{\text{Elapsed time}} \text{ ; } \text{ Instantaneous speed} = |v(t)|$$
+
+## 3. Average and Instantaneous Acceleration
+**Average acceleration** is the rate at which velocity changes: $$\bar{a} = \frac{\Delta v}{\Delta t} = \frac{v_f - v_0}{t_f - t_0}$$

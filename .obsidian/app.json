@@ -3,7 +3,7 @@
   "showLineNumber": true,
   "focusNewTab": true,
   "livePreview": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "readableLineLength": false,
   "vimMode": true,
   "alwaysUpdateLinks": true

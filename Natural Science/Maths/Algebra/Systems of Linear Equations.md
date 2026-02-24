@@ -1,0 +1,4 @@
+ A **linear equation** in the variables $x_1,...,x_n$ is an equation that can be written in the form: $a_1x_1 +...+ a_nx_n = b$ where b and the **coefficients** $a_1,...,a_n$ are real or complex number
+ 
+A **system of linear equations** (or a **linear system**) is a collection of one or more linear equations involving the same variables. A **solution** of the system is a list ($s_1,...,s_n$) of numbers that makes each equation a true statement when values $s_1,...,s_n$ are substituted for $x_1,...,x_n$
+- The set of all possible solutions is called the **solution set** of the linear system. Two linear systems are called **equivalent** if they have the same solution set.

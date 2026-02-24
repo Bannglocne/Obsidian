@@ -1,13 +1,6 @@
-# Graphing
-- Graphs for single variable: Pie chart; Bar graph; Time-series graph <br>
-![[Singe_Variable_Graphs.png|1000]]
-- Graphs for two variables: Coordinate system<br>
-<div style="display: flex; gap:2px; justify-content: center;">
-  <img src="Economics/Economics - Image/Coordinate_System_Graph.png" width="50%">
-  <img src="Economics/Economics - Image/Demand_Curves.png" width="50%">
-</div> <br>
-- Slope: How much the dependent variable ($y$) will change in response to a one-unit increase in the independent variable ($x$)
-$$ \text{slope} = \frac{\Delta y}{\Delta x} $$
+> [!DANGER] When graphing data from the real world, it is often more difficult to establish how one variable affects another.
+> - **Omitted variable** is a significant factor excluded from a statistical model, causing omitted variable bias, where the model misattributes its effect to included variables, distorting their true relationships and leading to inaccurate conclusions.`🦀 and 🕯`
+> - **Reverse causality** occurs when the assumed cause-and-effect relationship between two variables is flipped.  `👮‍♂️ and 🦹‍♂️`
 
 # [[Basic Economics#Elasticity|Elasticity]]
 <div style="display: flex; gap:2px; justify-content: center;">

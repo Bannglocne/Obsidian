@@ -95,3 +95,31 @@ Population growth has complex effects on productivity:
 - ==Stretching Natural Resources==
 - ==Diluting the Capital Stock==: High population growth can reduce GDP per person by spreading the existing capital stock more thinly across more workers.
 - ==Promoting Technological Progress==: Conversely, a larger world population may mean more scientists and inventors, leading to faster technological advances that benefit everyone.
+---
+# Saving, Investment, and the Financial System
+> **Financial system** the group of institutions in the economy that help to match one person’s saving with another person’s investment, moves scarce resources from _savers_ (people who earn more than they spend) to _borrowers_ (people who spend more than they earn).
+1. ==Financial markets==: Financial _institutions_ through which savers can directly provide funds to borrowers
+    - ==The Bond Market==: A bond is a certificate of indebtedness (a "debt" instrument). The buyer is a creditor who receives interest and eventually the principal back.
+    - ==The Stock Market==: Stock represents ownership in a corporation (an "equity" instrument). It offers higher risk but potentially higher returns than bonds.
+2. ==Financial Intermediaries==: Institutions where savers can _indirectly_ provide funds to borrowers.
+    - ==Banks==: The most familiar intermediary; they take deposits and use them to make loans, earning profit from the interest rate spread. They also provide a medium of exchange (checks/debit cards).
+    - ==Mutual Funds==: These sell shares to the public and use the proceeds to buy a diversified portfolio of stocks and bonds. This allows small savers to diversify their risks.
+
+## Saving and Investment in National Accounts
+Key macroeconomic identities clarify the relationship between saving and investment in a **closed economy** (one that does not trade internationally):
+- **Identity:** $Y = C + I + G$ (GDP equals Consumption + Investment + Government Purchases).
+- **National Saving ($S$):** The total income in the economy that remains after paying for consumption and government purchases ($S = I$).
+- **Components of Saving:** National saving is split into **private saving** ($Y - T - C$) and **public saving** ($T - G$).
+    - A **budget surplus** occurs if $T > G$ (positive public saving).
+    - A **budget deficit** occurs if $G > T$ (negative public saving).
+## The Market for Loanable Funds
+Economists use a supply-and-demand model to explain how the financial system works.
+- **Supply:** Comes from national saving. As the interest rate rises, saving becomes more attractive, so the supply curve slopes upward.
+- **Demand:** Comes from households and firms wanting to borrow for investment. As the interest rate rises, borrowing becomes more expensive, so the demand curve slopes downward.
+- **Equilibrium:** The interest rate adjusts until the quantity of loanable funds supplied equals the quantity demanded.
+### Government Policies and Investment
+The model helps analyze three main types of government policy:
+- **Policy 1: Saving Incentives:** Tax reforms (like expanded IRAs) that encourage saving shift the supply of loanable funds to the right. **Outcome:** Lower interest rates and higher investment.
+- **Policy 2: Investment Incentives:** An investment tax credit makes borrowing to invest more attractive, shifting the demand curve to the right. **Outcome:** Higher interest rates and higher saving/investment.
+- **Policy 3: Budget Deficits:** When the government runs a deficit, it reduces public saving, shifting the supply of loanable funds to the left.
+    - **Crowding Out:** The resulting increase in interest rates reduces the amount of private investment. Because investment is key to growth, budget deficits can reduce the economy's long-run growth rate.

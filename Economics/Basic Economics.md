@@ -1,57 +1,55 @@
-> **Economics** is the study of how society manages its scarce resources.
+**> **Economics** is the study of how society manages its scarce resources.
 # Ten Principles of Economics 
 > [!ABSTRACT] How People Make Decisions
-> 1. **People Face Trade-offs**: To get something we like, we usually have to give up something else we like. Decision-making requires ==trading off== one goal against another (Efficiency and Equality).
->2. **The Cost of Something Is What You Give Up to Get It**: The ==opportunity cost== of an item is whatever must be given up to obtain it, rather than just the monetary price.
->3. **Rational People Think at the Margin**: Rational decision-makers take action only if the ==marginal benefit== of the action exceeds the ==marginal cost==. They make decisions by comparing marginal changes.
+> 1. **People Face Trade-offs**: To get something we like, we usually have to give up something else we like. Decision-making requires _trading off_ one goal against another (Efficiency and Equality).
+>2. **The Cost of Something Is What You Give Up to Get It**: The _opportunity cost_ of an item is whatever must be given up to obtain it, rather than just the monetary price.
+>3. **Rational People Think at the Margin**: Rational decision-makers take action only if the _marginal benefit_ of the action exceeds the _marginal cost_. They make decisions by comparing marginal changes.
 >4. **People Respond to Incentives**
 
 > [!ABSTRACT] How People Interact
 >5. **Trade Can Make Everyone Better Off** Trade allows each person (or country) to specialize in the activities they do best. By trading with others, people can buy a greater variety of goods and services at a lower cost.
->6. **Markets Are Usually a Good Way to Organize Economic Activity** In a market economy, decisions are made by millions of firms and households rather than a central planner. Firms decide whom to hire and what to make. Households decide which firms to work for and what to buy. These firms and households interact in the marketplace, guided by prices and self-interest, often leading to efficient outcomes (the =="Invisible Hand"==).
->7. **Governments Can Sometimes Improve Market Outcomes**: Governments intervene to enforce rules (property rights) and maintain institutions key to a market economy. They also intervene to correct ==market failures==, such as:
->	- ==Externalities==: The impact of one person’s actions on the well-being of a bystander (e.g., pollution).
->	- ==Market Power==: The ability of a single economic actor (or small group) to unduly influence market prices (e.g., a monopoly).
+>6. **Markets Are Usually a Good Way to Organize Economic Activity** In a market economy, decisions are made by millions of firms and households rather than a central planner. Firms decide whom to hire and what to make. Households decide which firms to work for and what to buy. These firms and households interact in the marketplace, guided by prices and self-interest, often leading to efficient outcomes (the _"Invisible Hand"_).
+>7. **Governments Can Sometimes Improve Market Outcomes**: Governments intervene to enforce rules (property rights) and maintain institutions key to a market economy. They also intervene to correct _market failures_, such as:
+>	- _Externalities_: The impact of one person’s actions on the well-being of a bystander (e.g., pollution).
+>	- _Market Power_: The ability of a single economic actor (or small group) to unduly influence market prices (e.g., a monopoly).
 
 > [!ABSTRACT] How the Economy as a Whole Works
 > 8.  **A Country’s Standard of Living Depends on Its Ability to Produce Goods and Services**
 >9. **Prices Rise When the Government Prints Too Much Money**
 >10. **Society Faces a Short-Run Trade-off  between Inflation and Unemployment**: Injecting (printing) money  lowers unemployment but raises prices. 
->	- ==Business cycle==:  The irregular and largely unpredictable fluctuations in economic activity.
+>	- _Business cycle_:  The irregular and largely unpredictable fluctuations in economic activity.
+
 ---
 # Thinking Like an Economist
-| **As Scientist**                                                                                                                                                                                                                                                                                                                                                                  | **As Policy Adviser**                                                                                                                                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Economists apply the ==scientific method== by developing theories and collecting data to evaluate them. Because they often cannot conduct laboratory experiments, they rely heavily on "natural experiments" provided by historical episodes. To make the complex world more manageable, economists use ==assumptions== to focus on the most essential elements of a problem. | - ==Positive Statements==: Descriptive claims about how the world _is_, which can be confirmed or refuted by examining evidence.<br>- ==Normative Statements==: Prescriptive claims about how the world _ought_ to be, which involve value judgments and ethics in addition to facts. |
+| **As Scientist**                                                                                                                                                                                                                                                                                                                                                          | **As Policy Adviser**                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Economists apply the _scientific method_ by developing theories and collecting data to evaluate them. Because they often cannot conduct laboratory experiments, they rely heavily on "natural experiments" provided by historical episodes. To make the complex world more manageable, economists use _assumptions_ to focus on the most essential elements of a problem. | - ==Positive Statements==: Descriptive claims about how the world _is_, which can be confirmed or refuted by examining evidence.<br>- ==Normative Statements==: Prescriptive claims about how the world _ought_ to be, which involve value judgments and ethics in addition to facts. | 
 
-## Economic Models
-`💻 and 🚗 `
-Economists use stylized models, often composed of diagrams and equations, to improve our understanding of reality.
-<div style="display: flex; justify-content: center;">
-  <img src="Economics/Economics - Image/The_Circular_Flow_Diagram.png" width="30%">
-  <img src="Economics/Economics - Image/The_Production_Possibilities_Frontier.png" width="30%">
-  <img src="Economics/Economics - Image/A_Shift_in_the_Production_Possibilities_Frontier.png" width="30%">
+Economists use stylized models, often composed of diagrams and equations, to improve our understanding of reality. `💻 and 🚗 `
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="Economics/Economics - Image/The_Circular_Flow_Diagram.png" alt="The Circular Flow Diagram" style="width: 30%; min-width: 250px;">
+    <img src="Economics/Economics - Image/The_Production_Possibilities_Frontier.png" alt="The Production Possibilities Frontier" style="width: 30%; min-width: 250px;">
+    <img src="Economics/Economics - Image/A_Shift_in_the_Production_Possibilities_Frontier.png" alt="A Shift in the PPF" style="width: 30%; min-width: 250px;">
 </div>
- 
-> [!danger]  When graphing data from the real world, it is often more difficult to establish how one variable affects another.
-> - **Omitted variable** is a significant factor excluded from a statistical model, causing ==omitted variable bias (OVB)==, where the model misattributes its effect to included variables, distorting their true relationships and leading to inaccurate conclusions.`🦀 and 🕯`
-> - **Reverse causality** occurs when the assumed cause-and-effect relationship between two variables is flipped.  `👮‍♂️ and 🦹‍♂️`
 
+---
 # Interdependence and the Gains from Trade `🥔 and 🥩`
 > **Interdependence**: Individuals and nations rely on others to provide many of the goods and services they consume. Interdependence occurs because people are better off when they specialize in certain activities and trade with others.
 
 => The Driving Force of Specialization
 - ==Absolute advantage== is the ability to produce a good using fewer inputs than another producer
-- ==Comparative Advantage==: Compares producers based on their ==opportunity cost==.
+- ==Comparative Advantage==: Compares producers based on their opportunity cost.
 	- The producer who gives up less of other goods to produce Good X has the comparative advantage in Good X.
 	- While it is possible for one person to have an absolute advantage in all goods, it is _impossible_ for one person to have a comparative advantage in all goods because the opportunity cost of one good is the inverse of the opportunity cost of the other.
 
-=> Total production in an economy rises when each person ==specializes== in the good for which they have a comparative advantage.
+=> Total production in an economy rises when each person _specializes_ in the good for which they have a comparative advantage.
 - ==Gains from Trade==: Trade can benefit everyone in society because it allows people to specialize in activities in which they have a comparative advantage.
-- ==Price of Trade==: For both parties to gain from trade, the price at which they trade must lie between the two parties' ==opportunity costs==.
+- ==Price of Trade==: For both parties to gain from trade, the price at which they trade must lie between the two parties' opportunity costs.
+
 ---
 # The Market Forces of Supply and Demand
-A ==market== is defined as a group of buyers and sellers of a particular good or service. => ==Competitive Markets==: A market in which there are many buyers and many sellers so that each has a negligible impact on the market price.
+> A **market** is defined as a group of buyers and sellers of a particular good or service.
 
 | Feature           | **Perfect Competition** | **Monopolistic Comp.** | **Oligopoly**     | **Monopoly** |
 | --------------------- | ----------------------- | ---------------------- | ----------------- | ------------ |
@@ -93,7 +91,7 @@ A ==market== is defined as a group of buyers and sellers of a particular good or
 </div>
 
 ### Equilibrium
-- A situation in which the market price has reached the level at which quantity supplied equals quantity demanded. The price at this intersection is called the ==equilibrium price==, and the quantity is called the ==equilibrium quantity==.
+- A situation in which the market price has reached the level at which quantity supplied equals quantity demanded. The price at this intersection is called the _equilibrium price_, and the quantity is called the _equilibrium quantity_.
     - ==Surplus== (Excess Supply): Occurs when the price is above equilibrium; sellers respond by cutting prices to clear inventory.
     - ==Shortage== (Excess Demand): Occurs when the price is below equilibrium; buyers must wait in line, leading sellers to raise prices.
 
@@ -103,16 +101,15 @@ A ==market== is defined as a group of buyers and sellers of a particular good or
 # Elasticity
 > **Elasticity** is a measure of how much buyers and sellers respond to changes in market conditions.
 
-## Of Demand
-- ==Price elasticity of demand==: a measure of how much the quantity demanded of a good responds to a change in the price, computed as the percentage change in quantity demanded divided by the percentage change in price. Demand is said to be ==inelastic== if the quantity demanded responds only slightly to changes in the price.
+- ==Price elasticity of demand (supply)==: a measure of how much the quantity demanded (supply) of a good responds to a change in the price. Demand (supply) is said to be _inelastic_ if the quantity demanded (supplied) responds only slightly to changes in the price.
 	1. ==Availability of Close Substitutes==
 	2. ==Necessities vs. Luxuries==
 	3. ==Definition of the Market==: Narrowly defined markets have more elastic demand than broad ones.
 	4. ==Time Horizon==: Demand is typically more elastic over longer periods as consumers have more time to adjust their behavior.
 
-=> Computing: $$\text{Price elasticity of demand} = \frac{\text{Percentage change in quantity demanded}}{\text{Percentage change in price}}$$
-or using ==middle point method==:
-$$\text{Price elasticity of demand} = \frac{(Q_2 - Q_1) / [(Q_2 + Q_1) / 2]}{(P_2 - P_1) / [(P_2 + P_1) / 2]}$$
+=> Computing: $$\text{Price elasticity of demand (supply)} = \frac{\text{Percentage change in quantity demanded (supply)}}{\text{Percentage change in price}}$$
+or using _middle point method_:
+$$\text{Price elasticity of demand (supply)} = \frac{(Q_2 - Q_1) / [(Q_2 + Q_1) / 2]}{(P_2 - P_1) / [(P_2 + P_1) / 2]}$$
 
 - ==Total revenue== (_P_ x _Q_) the amount paid by buyers and received by sellers of a good, computed as the price of the good times the quantity sold
 
@@ -123,10 +120,7 @@ $$\text{Price elasticity of demand} = \frac{(Q_2 - Q_1) / [(Q_2 + Q_1) / 2]}{(P_
 $$\text{Income elasticity of demand} = \frac{\text{Percentage change in quantity demanded}}{\text{Percentage change in income}}$$
 $$\text{Cross-price elasticity of demand} = \frac{\text{Percentage change in quantity demanded of good 1}}{\text{Percentage change in the price of good 2}}$$
 
-## Of Supply
-- **Price elasticity of supply**: a measures how much the quantity supplied of a good responds to a change in its price. The key determinant is the flexibility of sellers to change the amount of the good they produce. Supply is often more elastic in the long run than in the short run.
-
-=> Computing: $$\text{Price elasticity of supply} = \frac{\text{Percentage change in quantity supplied}}{\text{Percentage change in price}}$$
+Supply is often more elastic in the long run than in the short run.
 
 ---
 # Government Policies
