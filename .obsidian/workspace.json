@@ -234,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,7 +250,7 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "8d7bd15f90eacf88",
+  "active": "472e54eed73c4cd1",
   "lastOpenFiles": [
     "Project/Memoir/Journal.md",
     "Personal/2026.md",
