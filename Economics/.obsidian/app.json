@@ -1,1 +1,7 @@
-{}
+{
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "rightToLeft": false,
+  "livePreview": false
+}

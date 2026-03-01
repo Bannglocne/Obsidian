@@ -135,15 +135,6 @@
       "key": "B"
     }
   ],
-  "editor:insert-mathblock": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "M"
-    }
-  ],
   "editor:attach-file": [
     {
       "modifiers": [
@@ -200,6 +191,23 @@
         "Mod"
       ],
       "key": "C"
+    }
+  ],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:insert-mathblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "4"
     }
   ]
 }

@@ -11,10 +11,14 @@
             "id": "c88d46dcf75ad301",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Database/MongoDB.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MongoDB"
             }
           }
         ]
@@ -73,12 +77,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Database/MongoDB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of MongoDB"
             }
           },
           {
@@ -110,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from MongoDB"
             }
           },
           {
@@ -134,19 +140,6 @@
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
-          },
-          {
-            "id": "2bd691137276e599",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
           }
         ]
       }
@@ -162,11 +155,13 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "c88d46dcf75ad301",
   "lastOpenFiles": [
+    "Database/MongoDB.md",
     "CSS/CSS.md",
     "HTML/HTML.md",
     "HTML/HTML - Box/HTML - T - Links.md",
@@ -202,7 +197,6 @@
     "Language/C-Sharp/Img7.jpg",
     "Language/C-Sharp/Img6.jpg",
     "Language/C-Sharp/Img5.jpg",
-    "Language/C-Sharp/Img4.jpg",
-    "Language/Python/Python - List of list.md"
+    "Language/C-Sharp/Img4.jpg"
   ]
 }

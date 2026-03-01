@@ -1,0 +1,4 @@
+- [ ] Phân bố lại Vi - Vĩ
+- [ ] Viết lại Marketing
+- [ ] Cho Kế Toán lên trước
+- [ ] Economics - Base

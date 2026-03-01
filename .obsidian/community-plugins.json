@@ -1,9 +1,6 @@
 [
   "table-editor-obsidian",
   "obsidian-kanban",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-chartsview-plugin",
-  "insert-heading-link",
-  "chemical-structure-renderer"
+  "insert-heading-link"
 ]

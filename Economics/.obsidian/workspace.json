@@ -11,10 +11,14 @@
             "id": "a2a3a00f4a013747",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Unemployment.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Unemployment"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "aeeb0926bfd7fc74",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unemployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Unemployment"
             }
           },
           {
@@ -108,48 +113,41 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unemployment.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Unemployment"
             }
-          },
-          {
-            "id": "ee7ce27a182ab80e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0c56d1f7d04f4d2a",
+        "type": "tabs",
+        "children": [
           {
             "id": "c33867d9a08f0fa5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Unemployment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Unemployment"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +157,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
   "active": "a2a3a00f4a013747",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Trade.md",
+    "Tax.md",
+    "Production and Growth.md",
+    "Principle of Economics.md",
+    "Gross Domestic Product.md",
+    "Financial System.md",
+    "Market.md",
+    "Consumer Price Index.md",
+    "Economics - Image/A_Shift_in_the_Production_Possibilities_Frontier.png"
+  ]
 }
