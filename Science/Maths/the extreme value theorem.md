@@ -1,0 +1,2 @@
+#calculus #maths 
+If $f$ is [[continuity|continuous ]] on a closed interval $[a, b]$, then $f$ attains an [[maximum and minimum values#Absolute (Global)|absolute maximum]] value $f(c)$ and an [[maximum and minimum values#Absolute (Global)|absolute minimum]] value $f(d)$ at some numbers $c$ and $d$ in $[a, b]$

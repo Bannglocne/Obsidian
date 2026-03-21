@@ -1,8 +1,9 @@
-# [[Atoms - Molecules - Ions#Ions and Ionic Compounds|Ionic Compounds]]
+#chemistry #principles 
+# [[ions|Ionic Compounds]]
 1. Cations
-a) Cations formed from metal atoms have the same name as the metal
+a) Cations formed from metal [[atoms]] have the same name as the metal
 b) If a metal can form cations with different charges, the positive charge is indicated by a Roman numeral in parentheses following the name of the metal
-c) Cations formed from nonmetal atoms have names that end in _-ium_
+c) Cations formed from nonmetal [[atoms]] have names that end in _-ium_
 
 
 | Charge | Formula       | Name              | Formula       | Name                            |
@@ -58,10 +59,10 @@ a) Acids containing anions whose names end in _-ide_ are named by changing the _
 b) Acids containing anions whose names end in _-ate_ or _-ite_ are named by changing _-ate_ to _-ic_ and _-ite_ to _-ous_ and then adding the word acid. Prefixes in the anion name are retained in the name of the acid
 
 # Binary Molecular Compounds
-1. The name of the element farther to the left in the periodic table (closest to the metals) is usually written first. An exception occurs when the compound contains oxygen and chlorine, bromine, or iodine (any halogen except fluorine), in which case oxygen is written last. 
+1. The name of the element farther to the left in the [[periodic table]] (closest to the metals) is usually written first. An exception occurs when the compound contains oxygen and chlorine, bromine, or iodine (any halogen except fluorine), in which case oxygen is written last. 
 2. If both elements are in the same group, the lower one is named first. 
 3. The name of the second element is given an _-ide_ ending. 
-4. Greek prefixes are used to indicate the number of atoms of each element. The prefix _mono-_ is never used with the first element. When the prefix ends in _a_ or _o_ and the name of the second element begins with a vowel, the _a_ or _o_ of the prefix is often dropped.
+4. Greek prefixes are used to indicate the number of [[atoms]] of each element. The prefix _mono-_ is never used with the first element. When the prefix ends in _a_ or _o_ and the name of the second element begins with a vowel, the _a_ or _o_ of the prefix is often dropped.
 
 | Prefix | Meaning |
 | ------ | ------- |

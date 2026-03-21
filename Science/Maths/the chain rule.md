@@ -1,0 +1,2 @@
+#maths #derivatives #calculus 
+If $g$ is differentiable at $x$ and $f$ is differentiable at $g(x)$, then the composite [[function]] $F = f \circ g$ defined by $F(x) = f(g(x))$ is differentiable at $x$ and $F'$ is given by the product $$F'(x) = f'(g(x)) \bullet g'(x)$$ In Leibniz notation, if $y = f(u)$ and $u = g(x)$ are both differentiable functions, then $$\frac{dy}{dx} = \frac{dy}{du} \frac{du}{dx}$$

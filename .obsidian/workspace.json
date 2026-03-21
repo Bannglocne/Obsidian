@@ -8,7 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "566ed18ce5e372db",
+            "id": "50759a7e214c19f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/To-do List.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "To-do List"
+            }
+          },
+          {
+            "id": "ae130f28bb055105",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -35,7 +50,8 @@
               "title": "2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +105,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5c758f03c653dee9",
@@ -234,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,41 +258,40 @@
       "command-palette:Open command palette": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "472e54eed73c4cd1",
+  "active": "ae130f28bb055105",
   "lastOpenFiles": [
-    "Project/Memoir/Journal.md",
+    "Project/Stoicism.md",
+    "IT/IT - Box/JSON.md",
+    "Personal/To-do List.md",
     "Personal/2026.md",
+    "Science/Chemistry/Atoms.md",
+    "Economics/Fundamental of Economics/Unemployment.md",
+    "Economics/Accounting",
+    "Economics/Fundamental of Economics/Trade.md",
+    "Economics/Fundamental of Economics/The Monetary System.md",
+    "Economics/Fundamental of Economics/Tax.md",
+    "Economics/Fundamental of Economics/Principle of Economics.md",
+    "Economics/Fundamental of Economics/Market.md",
+    "Economics/Fundamental of Economics/Inflation.md",
+    "Economics/Fundamental of Economics/Gross Domestic Product.md",
+    "Economics/Fundamental of Economics/Financial System.md",
+    "Economics/Fundamental of Economics/Consumer Price Index.md",
+    "Economics/Fundamental of Economics/Production and Growth.md",
+    "Economics/Fundamental of Economics",
+    "Project/Memoir/Journal.md",
     "Science/Maths/Derivatives.md",
     "Science/Chemistry/Atoms, Molecules, Ions.md",
-    "Economics/Market.md",
-    "Economics/Unemployment.md",
-    "Economics/Tax.md",
-    "Economics/Trade.md",
-    "Economics/Principle of Economics.md",
-    "Economics/Gross Domestic Product.md",
-    "Economics/Financial System.md",
-    "Economics/Consumer Price Index.md",
     "Art/Photography.md",
     "Science/Maths/Functions and Limits.md",
     "Project/Deep Work.md",
-    "Project/Stoicism.md",
     "Project/Library.md",
     "Project/Memoir",
-    "Personal/To-do List.md",
     "Science/Physics/Units and Measurement.md",
     "Science/Physics/Motion.md",
     "Science/Physics/Physics - Base.md",
-    "Science/Physics/Vectors.md",
-    "Science/Chemistry/Naming Compounds.md",
-    "Economics/Production and Growth.md",
-    "Economics/Macroeconomics.md",
-    "Economics/Maths for Economist.md",
     "Economics/Economics - Image/Cyclical_Unemployment.png",
     "Economics/Economics - Image/Government_Budget_Deficits_and_Surpluses.png",
     "Economics/Economics - Image/Investment_Incentives.png",
@@ -297,8 +310,6 @@
     "Excalidraw",
     "Science/Maths/Maths - Box",
     "Science/MSE",
-    "Science/Maths",
-    "Science",
     "IT/IT.canvas",
     "Roadmap.canvas"
   ]

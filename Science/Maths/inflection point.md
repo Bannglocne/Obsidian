@@ -1,0 +1,2 @@
+#calculus #maths 
+A point $P$ on a curve $y = f(x)$ is called an **inflection point** is $f$ [[continuity|continuous]] there and the curve changes from [[derivatives affect the shape of a graph#f''|concave upward to concave downward or from concave downward to concave upward]] at $P$.

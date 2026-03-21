@@ -1,16 +1,16 @@
-# Materials Science and Engineering
+#material #principles 
 - **Materials Science:** Investigates the relationships between the _structures_ and _properties_ of materials.
 - **Materials Engineering:** Designs or engineers the structure of a material to produce a predetermined set of properties based on established correlations.
 
 1. ==Structure== refers to the arrangement of internal components, classified by size:
 	- _==Subatomic==_: Electrons and nuclei interactions.
-	- _==Atomic==_: Organization of atoms into molecules or crystals.
-	- _==Nanostructure==_: Aggregates of atoms <100 nm.
+	- _==Atomic==_: Organization of [[atoms]] into [[molecules]] or crystals.
+	- _==Nanostructure==_: Aggregates of [[atoms]] <100 nm.
 	- _==Microstructure==_: Features observable by microscope (>100 nm).
 	- _==Macrostructure==_: Features visible to the naked eye.
 
 2. ==Properties== are a material's response to external stimuli, grouped into six categories:
-	- _==Mechanical==_: Response to load/force
+	- _==Mechanical==_: Response to load/[[force]]
 	- _==Electrical==_: Response to electric fields
 	- _==Thermal==_: Response to heat
 	- _==Magnetic==_: Response to magnetic fields.
@@ -30,7 +30,7 @@ graph LR
     style D fill:#ffe6cc,stroke:#d79b00
 ```
 
-## Classification of Materials
+# Classification of Materials
 
 Solid materials are grouped into three basic categories based on chemistry and atomic structure, plus composites.
 
@@ -41,7 +41,8 @@ Solid materials are grouped into three basic categories based on chemistry and a
 | **Polymers**   | Organic compounds (C, H, etc.) with large molecular chain structures.                           | Low density, flexible, and easily formed. Chemically inert and low conductivity.                                                       |
 | **Composites** | Combinations of two or more materials (e.g., Fiberglass, Carbon Fiber).                         | Designed to display a combination of properties not found in single materials (e.g., high strength + low density).                     |
 
-## Advanced Materials & Modern Materials' Needs
+
+# Advanced Materials & Modern Materials' Needs
 - **Semiconductors:** Electrical properties intermediate between conductors and insulators. Highly sensitive to impurities; essential for electronics and computers .
 - **Biomaterials:** Implanted into the human body. Must be **biocompatible** (non-toxic and compatible with biological tissue) .
 - **Smart Materials:** Can sense environmental changes and respond via actuators (e.g., shape-memory alloys, piezoelectric ceramics) .

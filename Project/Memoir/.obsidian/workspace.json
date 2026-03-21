@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High School/12th Grade/Draft - 12.md",
+                "file": "Toddler/Draft - 0.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Draft - 12"
+              "title": "Draft - 0"
             }
           }
         ],
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "High School/12th Grade/Draft - 12.md",
+                "file": "Toddler/Draft - 0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Draft - 12"
+              "title": "Outline of Draft - 0"
             }
           },
           {
@@ -200,34 +200,32 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3dce8e830d22762",
+  "active": "9f0cd6b54ba8890a",
   "lastOpenFiles": [
+    "School/9th Grade/Draft - 9.md",
+    "Brainstorm.canvas",
+    "School/Primary School/Draft - 1- 5.md",
+    "School/Primary School",
+    "Toddler/Draft - 0.md",
+    "School/10th Grade/Draft - 10.md",
+    "Journal.md",
+    "Public Documents.md",
+    "Main.md",
+    "School/12th Grade/Draft - 12.md",
     "University/1st Year",
     "University/Untitled.md",
-    "High School/12th Grade/Draft - 12.md",
     "University",
-    "Journal.md",
-    "High School/11th Grade/Draft - 11.md",
-    "High School/10th Grade/Draft - 10.md",
-    "Brainstorm.canvas",
-    "Testament.md",
-    "Public Documents.md",
-    "Secondary School/9th Grade/Draft - 9.md",
+    "School/11th Grade/Draft - 11.md",
     "High School/Untitled.md",
     "Toddler/1th",
-    "Secondary School/8th Grade",
-    "Secondary School/9th Grade",
-    "Secondary School/7th Grade",
-    "Secondary School/6th Grade",
+    "School/8th Grade",
+    "School/9th Grade",
+    "School/7th Grade",
+    "School/6th Grade",
     "Primary School/5th Grade",
-    "Primary School/4th Grade",
-    "Primary School/3th Grade",
-    "Primary School/2th Grade"
+    "Primary School/4th Grade"
   ]
 }

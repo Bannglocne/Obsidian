@@ -1,0 +1,3 @@
+> The **formula weight** of a substance is the sum of the atomic weights of the [[atoms]] in the chemical formula of the substance.
+
+$$\text{FW of } A_aB_b = a(\text{AW of }A) + b(\text{AW of } B)$$Calculating the percentage composition of any element in a substance is straight forward if the chemical formula is known:$$ \text{\% composition of element } = \frac{(\text{number of atoms of element})(\text{atomic weight of element})}{\text{formula weight of substance}} \times 100\% $$

@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:IT  ",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:\"Natural Science\"  ",
+      "query": "path:Science",
       "color": {
         "a": 1,
         "rgb": 65280
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3532647421844849,
-  "close": false
+  "scale": 1.213190251854882,
+  "close": true
 }

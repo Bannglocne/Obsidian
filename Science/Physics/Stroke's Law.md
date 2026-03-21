@@ -1,0 +1,2 @@
+#physics #kinematics 
+For a spherical object falling in a medium, the [[drag force]] is: $$F_s = 6\pi r \eta v$$ where $r$ is the radius of the object, $\eta$ is the viscosity of the fluid, and $v$ is the object's [[velocity]]
