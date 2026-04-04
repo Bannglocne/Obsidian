@@ -1,0 +1,2 @@
+#chemistry #periodictable 
+> The final row of the [[periodic table]] begins by filling the 7s orbitals. The **actinide elements**. The actinide elements are radioactive, and most of them are not found in nature.

@@ -1,6 +1,6 @@
 #maths #physics #principles 
 # Scalars and Vectors
-**Scalar** is a synonym of “number.” Time, mass, distance, length, volume, temperature, and energy are examples of scalar quantities.
+**Scalar** is a synonym of “number.” Time, mass, distance, length, [[volume]], temperature, and energy are examples of scalar quantities.
 
 Physical quantities specified completely by giving a number of units (magnitude) and a direction are called **vector** quantities.
 

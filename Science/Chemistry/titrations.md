@@ -1,0 +1,2 @@
+#chemistry #aqueous 
+To determine the [[concentration]] of a particular solute in a [[solution]], chemists often carry out a **titration**, which involves combining a [[solution]] where the solute [[concentration]] is not known with a reagent [[solution]] of known [[concentration]], called a **standard solution**.

@@ -1,2 +1,2 @@
 #derivatives #maths #calculus
-If  $y = f(x)$, where $f$ is a differentiable [[function]], then the **differential** $dx$ is an independent variable; that is, $dx$ can be given the value of any real number. The differential $dy$ is then defined in terms of $dx$ by the equation: $$dy = f'(x)dx$$
+If  $y = f(x)$, where $f$ is a [[derivatives|differentiable]] [[function]], then the **differential** $dx$ is an independent variable; that is, $dx$ can be given the value of any real number. The differential $dy$ is then defined in terms of $dx$ by the equation: $$dy = f'(x)dx$$

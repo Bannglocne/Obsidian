@@ -1,9 +1,9 @@
 #calculus #maths #integral
-If $f$ is a [[function]] defined for $a \leqslant x \leqslant b$, we divide the interval $[a, b]$ into $n$ subintervals of equal width $\Delta x = (b - a) / n$. We let $x_0 (= a)$, $x_1,..., x_n (= b)$ be the endpoints of these subintervals and we let $x^*_1,...,x^*_n$ be any **sample points** in these subintervals, so $x^*_i$ lies in the $i$th subinterval $[x_{i-1}, x_i]$. Then the **definite integral of $f$ from $a$ to $b$** is $$\displaystyle \int_{a}^{b} f(x)dx = lim_{n \to \infty} \sum_{i = 1}^{n}f(x^*_i)\Delta x$$ provided that this limit exists and gives the same value for all possible choices of sample points. If it does exist, we sat that $f$ is **integrable** on $[a, b]$
+If $f$ is a [[function]] defined for $a \leqslant x \leqslant b$, we divide the interval $[a, b]$ into $n$ subintervals of equal width $\Delta x = (b - a) / n$. We let $x_0 (= a)$, $x_1,..., x_n (= b)$ be the endpoints of these subintervals and we let $x^*_1,...,x^*_n$ be any **sample points** in these subintervals, so $x^*_i$ lies in the $i$th subinterval $[x_{i-1}, x_i]$. Then the **definite integral of $f$ from $a$ to $b$** is $$\displaystyle \int_{a}^{b} f(x)dx = lim_{n \to \infty} \sum_{i = 1}^{n}f(x^*_i)\Delta x$$ provided that this [[limit]] exists and gives the same value for all possible choices of sample points. If it does exist, we sat that $f$ is **integrable** on $[a, b]$
 
 - $\int$: Integral sign
-- $a$: Lower limit
-- $b$: Upper limit
+- $a$: Lower [[limit]]
+- $b$: Upper [[limit]]
 - $f(x)$: Integrand
 - The procedure of calculating an integral is called **integration**
 
@@ -11,6 +11,7 @@ If $f$ is a [[function]] defined for $a \leqslant x \leqslant b$, we divide the 
 > [!NOTE] Theorem
 > If $f$ is [[continuity|continuous]] on $[a, b]$, or if $f$ has only a finite number of jump discontinuities, then $f$ is integrable on $[a, b]$; that is, the definite integral $\int_{a}^{b}f(x)dx$ exists.
 
+---
 # Definite
 1. $\int_{b}^{a} f(x) \, dx = -\int_{a}^{b} f(x) \, dx$
 
@@ -35,23 +36,19 @@ If $f$ is a [[function]] defined for $a \leqslant x \leqslant b$, we divide the 
 10. $\text{If } m \leqslant f(x) \leqslant M \text{ for } a \leqslant x \leqslant b, \text{ then:}$
 $$\\ m(b - a) \leqslant \int_{a}^{b} f(x) \, dx \leqslant M(b - a)$$
 
+---
 # Undefinite
-$\int cf(x) \, dx = c \int f(x) \, dx$
+$\int cf(x) \, dx = c \int f(x) \, dx \quad \quad \quad \int k \, dx = kx + C$
 
-$\int k \, dx = kx + C$
-
-$\int \sin x \, dx = -\cos x + C$
-
-$\int \sec^2 x \, dx = \tan x + C$
-
-$\int \sec x \tan x \, dx = \sec x + C$
-
-$\int [f(x) + g(x)] \, dx = \int f(x) \, dx + \int g(x) \, dx$
-
-$\int x^n \, dx = \frac{x^{n+1}}{n+1} + C \quad (n \neq -1)$
-
-$\int \cos x \, dx = \sin x + C$
-
-$\int \csc^2 x \, dx = -\cot x + C$
-
-$\int \csc x \cot x \, dx = -\csc x + C$
+|           |                                                                                           |           |                                                                                          |
+|:--------- |:----------------------------------------------------------------------------------------- |:--------- |:---------------------------------------------------------------------------------------- |
+| **1.**    | $\int x^n \, dx = \frac{x^{n+1}}{n+1} \quad (n \neq -1)$                                  | **2.**    | $\int \frac{1}{x} \, dx = \ln \vert x \vert$                                             |
+| **3.**    | $\int e^x \, dx = e^x$                                                                    | **4.**    | $\int a^x \, dx = \frac{a^x}{\ln a}$                                                     |
+| **5.**    | $\int \sin x \, dx = -\cos x$                                                             | **6.**    | $\int \cos x \, dx = \sin x$                                                             |
+| **7.**    | $\int \sec^2 x \, dx = \tan x$                                                            | **8.**    | $\int \csc^2 x \, dx = -\cot x$                                                          |
+| **9.**    | $\int \sec x \tan x \, dx = \sec x$                                                       | **10.**   | $\int \csc x \cot x \, dx = -\csc x$                                                     |
+| **11.**   | $\int \sec x \, dx = \ln \vert \sec x + \tan x \vert$                                     | **12.**   | $\int \csc x \, dx = \ln \vert \csc x - \cot x \vert$                                    |
+| **13.**   | $\int \tan x \, dx = \ln \vert \sec x \vert$                                              | **14.**   | $\int \cot x \, dx = \ln \vert \sin x \vert$                                             |
+| **15.**   | $\int \sinh x \, dx = \cosh x$                                                            | **16.**   | $\int \cosh x \, dx = \sinh x$                                                           |
+| **17.**   | $\int \frac{dx}{x^2 + a^2} = \frac{1}{a} \tan^{-1} \left(\frac{x}{a}\right)$              | **18.**   | $\int \frac{dx}{\sqrt{a^2 - x^2}} = \sin^{-1} \left(\frac{x}{a}\right), \quad a > 0$     |
+| **\*19.** | $\int \frac{dx}{x^2 - a^2} = \frac{1}{2a} \ln \left\vert \frac{x - a}{x + a} \right\vert$ | **\*20.** | $\int \frac{dx}{\sqrt{x^2 \pm a^2}} = \ln \left\vert x + \sqrt{x^2 \pm a^2} \right\vert$ |

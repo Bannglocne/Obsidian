@@ -1,0 +1,4 @@
+#physics #quantum #chemistry 
+$$
+\psi
+$$

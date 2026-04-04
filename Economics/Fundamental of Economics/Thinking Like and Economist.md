@@ -1,0 +1,10 @@
+#economics 
+
+| **As Scientist**                                                                                                                                                                                                                                                                                                                                                          | **As Policy Adviser**                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Economists apply the [[Scientific Method]] and use [[Assumptions]]  | - Statements about the world come in two types: [[Positive Statements]], [[Normative Statements]]<br> - Economists’ advice is not always followed | 
+
+Economists use stylized models, often composed of diagrams and equations, to improve our understanding of reality: [[The Circular-Flow Diagram]], [[The Production Possibilities Frontier]]
+
+> [!DANGER] When graphing data from the real world, it is often more difficult to establish how one variable affects another.
+> [[Omitted Variable]] and [[Reverse Causality]]

@@ -1,2 +1,2 @@
 #dynamics #physics  
-Drag force $F_D$ is proportional to the square of the speed of the object. Mathematically, $$F_D = \frac{1}{2}C\rho Av^2$$, where $C$ is the drag coefficient, $A$ is the area of the object facing the fluid, and ρ is the density of the fluid.
+Drag force $F_D$ is proportional to the square of the speed of the object. Mathematically, $$F_D = \frac{1}{2}C\rho Av^2$$, where $C$ is the drag coefficient, $A$ is the [[area]] of the object facing the fluid, and ρ is the density of the fluid.

@@ -1,0 +1,1 @@
+> Any [[ions|ionic]] compound whose cation comes from a [[bases|base]] and whose anion comes from [[acids|acid]]

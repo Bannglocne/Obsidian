@@ -8,50 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50759a7e214c19f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/To-do List.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "To-do List"
-            }
-          },
-          {
             "id": "ae130f28bb055105",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Personal/2026.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "2026"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "standard state",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,13 +84,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026"
+              "title": "Outline"
             }
           }
         ]
@@ -263,10 +228,23 @@
   },
   "active": "ae130f28bb055105",
   "lastOpenFiles": [
+    "Project/Library.md",
+    "Science/Physics/standard enthalpy of formation.md",
+    "Economics/Fundamental of Economics/Dub/Gross Domestic Product.md",
+    "Science/Physics/standard enthalpy change.md",
+    "Science/Physics/standard  state.md",
+    "Economics/Accounting/Recording Process.md",
+    "Personal/2026.md",
+    "Science/reduction.md",
+    "Science/Untitled.md",
+    "Science/oxidation.md",
+    "Science/redox reaction.md",
+    "Science/salt.md",
+    "Science/neutralization reaction.md",
+    "Science/neutraluzation reaction.md",
+    "Personal/To-do List.md",
     "Project/Stoicism.md",
     "IT/IT - Box/JSON.md",
-    "Personal/To-do List.md",
-    "Personal/2026.md",
     "Science/Chemistry/Atoms.md",
     "Economics/Fundamental of Economics/Unemployment.md",
     "Economics/Accounting",
@@ -277,21 +255,8 @@
     "Economics/Fundamental of Economics/Market.md",
     "Economics/Fundamental of Economics/Inflation.md",
     "Economics/Fundamental of Economics/Gross Domestic Product.md",
-    "Economics/Fundamental of Economics/Financial System.md",
-    "Economics/Fundamental of Economics/Consumer Price Index.md",
-    "Economics/Fundamental of Economics/Production and Growth.md",
     "Economics/Fundamental of Economics",
-    "Project/Memoir/Journal.md",
-    "Science/Maths/Derivatives.md",
-    "Science/Chemistry/Atoms, Molecules, Ions.md",
-    "Art/Photography.md",
-    "Science/Maths/Functions and Limits.md",
-    "Project/Deep Work.md",
-    "Project/Library.md",
     "Project/Memoir",
-    "Science/Physics/Units and Measurement.md",
-    "Science/Physics/Motion.md",
-    "Science/Physics/Physics - Base.md",
     "Economics/Economics - Image/Cyclical_Unemployment.png",
     "Economics/Economics - Image/Government_Budget_Deficits_and_Surpluses.png",
     "Economics/Economics - Image/Investment_Incentives.png",

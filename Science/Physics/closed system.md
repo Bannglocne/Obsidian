@@ -1,0 +1,2 @@
+#chemistry #physics #thermodynamics #energy #principles 
+The systems we can most readily study in thermochemistry are called **closed systems**— systems that can exchange [[energy]] but not [[matter]] with their surroundings.

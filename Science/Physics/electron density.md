@@ -1,0 +1,2 @@
+#chemistry #physics #quantum 
+> The square of [[wave functions]] $\psi^2$ at a given point in space represents the probability that the electron will be found at that location. And $\psi^2$ is called either the **probability density** or the **electron density**

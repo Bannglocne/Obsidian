@@ -1,42 +1,20 @@
 #economics #principles
-> **Economics** is the study of how society manages its scarce resources.
 # Ten Principles of Economics 
 > [!ABSTRACT] How People Make Decisions
-> 1. **People Face Trade-offs**: To get something we like, we usually have to give up something else we like. Decision-making requires _trading off_ one goal against another (Efficiency and Equality).
->2. **The Cost of Something Is What You Give Up to Get It**: The _opportunity cost_ of an item is whatever must be given up to obtain it, rather than just the monetary price.
->3. **Rational People Think at the Margin**: Rational decision-makers take action only if the _marginal benefit_ of the action exceeds the _marginal cost_. They make decisions by comparing marginal changes.
->4. **People Respond to Incentives**
+> 1. **People Face [[Trade-offs]]**
+>2. **The Cost of Something Is [[Opportunity Cost|What You Give Up to Get It]]**
+>3. **[[Rational People]] Think at the [[Marginal Change|Margin]]**
+>4. **People Respond to [[Incentive|Incentives]]**
 
 > [!ABSTRACT] How People Interact
->5. **[[Trade]] Can Make Everyone Better Off** [[Trade]] allows each person (or country) to specialize in the activities they do best. By trading with others, people can buy a greater variety of goods and services at a lower cost.
->6. **Markets Are Usually a Good Way to Organize Economic Activity** In a [[Market]] economy, decisions are made by millions of firms and households rather than a central planner. Firms decide whom to hire and what to make. Households decide which firms to work for and what to buy. These firms and households interact in the marketplace, guided by prices and self-interest, often leading to efficient outcomes (the _"Invisible Hand"_).
->7. **Governments Can Sometimes Improve [[Market]] Outcomes**: Governments intervene to enforce rules (property rights) and maintain institutions key to a [[Market]] economy. They also intervene to correct _[[Market]] failures_, such as:
->	- _Externalities_: The impact of one person’s actions on the well-being of a bystander (e.g., pollution).
->	- _[[Market]] Power_: The ability of a single economic actor (or small group) to unduly influence [[Market]] prices (e.g., a monopoly).
+>5. **[[Trade]] Can Make Everyone Better Off** .
+>6. **[[Market|Markets]] Are Usually a Good Way to Organize Economic Activity** ("[[Invisible-Hand]]")
+>7. **[[Government Policy|Governments]] Can Sometimes Improve [[Market]] Outcomes**
 
 > [!ABSTRACT] How the Economy as a Whole Works
-> 8.  **A Country’s Standard of Living Depends on Its Ability to Produce Goods and Services**
->9. **Prices Rise When the Government Prints Too Much Money**
->10. **Society Faces a Short-Run Trade-off  between [[Inflation]] and [[Unemployment]]**: Injecting (printing) money  lowers [[Unemployment|unemployment]] but raises prices. 
->	- _Business cycle_:  The irregular and largely unpredictable fluctuations in economic activity.
-
----
-# Thinking Like an Economist
-| **As Scientist**                                                                                                                                                                                                                                                                                                                                                          | **As Policy Adviser**                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Economists apply the _scientific method_ by developing theories and collecting data to evaluate them. Because they often cannot conduct laboratory experiments, they rely heavily on "natural experiments" provided by historical episodes. To make the complex world more manageable, economists use _assumptions_ to focus on the most essential elements of a problem. | - ==Positive Statements==: Descriptive claims about how the world _is_, which can be confirmed or refuted by examining evidence.<br>- ==Normative Statements==: Prescriptive claims about how the world _ought_ to be, which involve value judgments and ethics in addition to facts. | 
-
-Economists use stylized models, often composed of diagrams and equations, to improve our understanding of reality. `💻 and 🚗 `
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="Economics - Image/The_Circular_Flow_Diagram.png" alt="The Circular Flow Diagram" style="width: 30%; min-width: 250px;">
-    <img src="Economics - Image/The_Production_Possibilities_Frontier.png" alt="The Production Possibilities Frontier" style="width: 30%; min-width: 250px;">
-    <img src="Economics - Image/A_Shift_in_the_Production_Possibilities_Frontier.png" alt="A Shift in the PPF" style="width: 30%; min-width: 250px;">
-</div>
-
-> [!DANGER] When graphing data from the real world, it is often more difficult to establish how one variable affects another.
-> - **Omitted variable** is a significant factor excluded from a statistical model, causing omitted variable bias, where the model misattributes its effect to included variables, distorting their true relationships and leading to inaccurate conclusions.`🦀 and 🕯`
-> - **Reverse causality** occurs when the assumed cause-and-effect relationship between two variables is flipped.  `👮‍♂️ and 🦹‍♂️`
+> 8.  **A Country’s [[Living Standard|Standard of Living]] Depends on Its [[Productivity|Ability to Produce Goods and Services]]**
+>9. **[[Inflation|Prices Rise When the Government Prints Too Much Money]]**
+>10. **Society Faces a Short-Run Trade-off  between [[Inflation]] and [[Unemployment]]**:
 
 ---
 # Macroeconomics

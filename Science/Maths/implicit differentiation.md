@@ -1,0 +1,2 @@
+#maths #derivatives #calculus 
+>Some [[function|functions]] are defined implicitly by a relation between $x$ and $y$. To solve these functions, we can use the method of **implicit differentiation**: This consists of [[derivatives|differentiating]] both sides of the equation with respect to $x$ and then solving the resulting equation for $y'$.

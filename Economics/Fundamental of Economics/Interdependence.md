@@ -1,0 +1,2 @@
+#economics 
+> **Interdependence**: Individuals and nations rely on others to provide many of the goods and services they consume. Interdependence occurs because people are better off when they specialize in certain activities and [[Trade]] with others.

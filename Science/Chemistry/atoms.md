@@ -1,4 +1,4 @@
-#chemistry #physics 
+#chemistry #physics #principles 
 
 Atom have three subatomic particles: _proton_, _neutron_, _electron_: ${\color{cyan}{}^{12 \text{ - Mass number}}} {\color{green}_{6 \text{ - Atomic number }}}{\color{red}\text{C - Symbol of element}}$
 - **Electronic charge**: $+1.602 \times 10^{-19}$

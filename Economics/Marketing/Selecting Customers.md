@@ -1,0 +1,2 @@
+#economics #marketing 
+The company must first decide whom it will serve. It does this by dividing the market into segments of customers (**market segmentation**) and selecting which segments it will go after (**target marketing**).

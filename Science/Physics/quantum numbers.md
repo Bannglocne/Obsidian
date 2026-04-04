@@ -1,13 +1,13 @@
 #physics #chemistry #quantum
-In wave mechanics, every electron is characterized by four quantum numbers:
+In wave mechanics, every electron is characterized by four **quantum numbers**:
 
 - **Principal ($n$)**: Determines the shell and the size of an electron's [[orbital]].
     
-- **Azimuthal ($l$)**: Designates the subshell (s, p, d, f) and the shape of the [[orbital]].
+- **Azimuthal ($l$)**: Designates the subshell (s, p, d, f) and the shape of the [[orbital]]. Can have integral values from $0$ to $(n- 1)$.
     
-- **Magnetic ($m_l$)**: Determines the number of electron orbitals for each subshell.
+- **Magnetic ($m_l$)**: Determines the number of electron orbitals for each subshell. Can have integral values between $-l$ and $l$, in cluding $0$.
     
-- **Spin ($m_s$)**: Relates to the spin moment, which must be oriented either up ($+\frac{1}{2}$) or down ($-\frac{1}{2})$
+- **Spin ($m_s$)**: Relates to the [[electron spin|spin]] moment, which must be oriented either up ($+\frac{1}{2}$) or down ($-\frac{1}{2})$
 
 | Value of $n$ | Value of $l$ |      Values of $m_l$      | Subshell | Number of Orbitals | Number of Electrons |
 |:------------:|:------------:|:-------------------------:|:--------:|:------------------:|:-------------------:|

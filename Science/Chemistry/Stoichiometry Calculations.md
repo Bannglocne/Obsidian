@@ -1,4 +1,4 @@
-#chemistry #principles 
+#chemistry #principles #equation 
 > **Stoichiometry** is the area of study that examines the quantities of substances consumed and produced in chemical reactions.
 
 # Chemical Equations

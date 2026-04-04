@@ -1,0 +1,2 @@
+#chemistry  #aqueous #reaction #metal 
+**Redox  reactions** are chemical processes involving the transfer of electrons between reactants, where one species is [[oxidation|oxidized]] and another is [[reduction|reduced]]. (One of the reactants is a metal in its elemental form.)

@@ -9,7 +9,7 @@
 (b) If $f'$ changes from negative to positive at $c$, then has a [[maximum and minimum values#Local|local minimum]] at $c$. 
 (c) If $f'$ does not change sign at $c$ (for example, if is positive on both sides of $c$ or negative on both sides), then has no [[maximum and minimum values#Local|local maximum or minimum]] at $c$.
 
-**First Derivative Test for Absolute [[the extreme value theorem|Extreme Values]]**: Suppose that $c$ is a [[critical number]] of a [[continuity|continuous ]] [[function]] $f$ defined on an interval
+**First Derivative Test for Absolute [[extreme value theorem|Extreme Values]]**: Suppose that $c$ is a [[critical number]] of a [[continuity|continuous ]] [[function]] $f$ defined on an interval
 a) If $f'(x) > 0$ for all $x < c$ and $f'(x) < 0$ for all $x > c$, then $f(c)$ is the [[maximum and minimum values#Absolute (Global)|absolute maximum]] value of $f$
 a) If $f'(x) < 0$ for all $x < c$ and $f'(x) > 0$ for all $x > c$, then $f(c)$ is the [[maximum and minimum values#Absolute (Global)|absolute minimum]] value of $f$
 

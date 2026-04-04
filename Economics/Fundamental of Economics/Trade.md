@@ -1,16 +1,8 @@
 #economics #principles
-# Interdependence and the Gains from Trade `🥔 and 🥩`
-> **Interdependence**: Individuals and nations rely on others to provide many of the goods and services they consume. Interdependence occurs because people are better off when they specialize in certain activities and trade with others.
+> **Trade** can benefit everyone in society because it allows people to specialize in activities in which they have a [[comparative advantage]].
 
-=> The Driving Force of Specialization
-- ==Absolute advantage== is the ability to produce a good using fewer inputs than another producer
-- ==Comparative Advantage==: Compares producers based on their opportunity cost.
-	- The producer who gives up less of other goods to produce Good X has the comparative advantage in Good X.
-	- While it is possible for one person to have an absolute advantage in all goods, it is _impossible_ for one person to have a comparative advantage in all goods because the opportunity cost of one good is the inverse of the opportunity cost of the other.
+=> Total production in an economy rises
 
-=> Total production in an economy rises when each person _specializes_ in the good for which they have a comparative advantage.
-- ==Gains from Trade==: Trade can benefit everyone in society because it allows people to specialize in activities in which they have a comparative advantage.
-- ==Price of Trade==: For both parties to gain from trade, the price at which they trade must lie between the two parties' opportunity costs.
 ---
 # National Trade
 ## Government Policies

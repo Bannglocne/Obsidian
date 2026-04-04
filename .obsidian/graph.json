@@ -2,40 +2,11 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:IT  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:Economics  ",
-      "color": {
-        "a": 1,
-        "rgb": 16755200
-      }
-    },
-    {
-      "query": "path:MSE  ",
-      "color": {
-        "a": 1,
-        "rgb": 11206400
-      }
-    },
-    {
-      "query": "path:Science",
-      "color": {
-        "a": 1,
-        "rgb": 65280
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -46,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.213190251854882,
-  "close": true
+  "scale": 0.22398314203775682,
+  "close": false
 }

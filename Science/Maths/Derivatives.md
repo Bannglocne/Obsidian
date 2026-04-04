@@ -2,10 +2,10 @@
 # The Derivative as a [[function]]
 - $f'$ is the **derivative of $f$** and defined by:  $$f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
 
-- A [[function]] $f$ is **differentiable at $a$** if $f'(a)$ exists. It is **differentiable on an open interval** $(a, b)$ [or $(a, \infty)$ or $(-\infty, a)$ or (-\infty, \infty)] if it is differentiable at every number in the interval
+- A [[function]] $f$ is **differentiable at $a$** if $f'(a)$ exists. It is **differentiable on an open interval** $(a, b)$ [or $(a, \infty)$ or $(-\infty, a)$ or $(-\infty, \infty)$] if it is differentiable at every number in the interval
 
 > [!NOTE] Note
-> If $f$ is differentiable at $a$, then is [[Introduction to Mathematics#Continuity|continuous]] at $a$.
+> If $f$ is differentiable at $a$, then is [[Mathematical Models#Continuity|continuous]] at $a$.
 
 - **Higher Derivatives**: $$\frac{d}{dx}(\frac{dy}{dx})=\frac{d^2y}{dx^2}$$
 
@@ -19,8 +19,8 @@
 7. General Power Functions: If $n$ is a positive integer, then $$\frac{d}{dx}(x^{-n})=-nx^{-n-1}$$
 8. The Power Rule (General Version): If $n$ is any real number, then $$\frac{d}{dx}(x^n) = nx^{n-1}$$
 
-==Derivatives of Trigonometric Functions==
-1. $\lim_{h \to 0} \sin x = \sin x$; $\lim_{h \to 0} \cos x = \cos x$\
+# Derivatives of Trigonometric Functions
+1. $\lim_{h \to 0} \sin x = \sin x$; $\lim_{h \to 0} \cos x = \cos x$
 2. $\lim_{\theta \to 0} \frac{\sin \theta}{\theta} = 1$
 3. $\lim_{\theta \to 0} \frac{\cos \theta - 1}{\theta} = 0$
 4. $\frac{d}{dx}(\sin x) = \cos x$
@@ -29,10 +29,3 @@
 7. $\frac{d}{dx}(\csc x) = -\csc x \cot x$
 8. $\frac{d}{dx}(\sec x) = \sec x \tan x$
 9. $\frac{d}{dx}(\cot x) = -\csc^{2}x$
-
-# Implicit Differentiation
-Some functions are defined implicitly by a relation between $x$ and $y$. To solve these functions, we can use the method of **implicit differentiation**: This consists of differentiating both sides of the equation with respect to $x$ and then solving the resulting equation for $y'$.
-
-# Linear Approximations and Differentials
-The **linear approximation** (or **tangent line approximation**) of $f$ at $a$: $$f(x)\approx f(a) + f'(x - a)$$
-The linear [[function]] whose graph is the tangent line, that is, $$L(x) = f(a) + f'(a)(x - a)$$ is called the **linearization** of $f$ at $a$

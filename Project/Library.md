@@ -385,7 +385,7 @@
 - A little life -  Hanya Yanagihara
 - Sự tiến hoá của tri thức - Jurgen Renn
 - Huyễn tưởng về bình thường  - Gabor Maté, Daniel Maté
-- Trường ca Achilles - Madeline Miller
+- Trường ca Achilles - Madeline Miller ✅
 - Ngôi nhà bên bờ biển xanh thẳm - TJ Klune
 - Đi tìm lẽ sống - Viktor Emil Frankl
 - An uncommon way to wealth - Victor D'Argent
@@ -407,3 +407,4 @@
 - The Psychopathology of Everyday Life - Sigmund Freud
 - Thế giới của Sophie - Jostein Gaarder
 - Xấu - Natsuo Kirino
+- Ngày mai, Ngày mai và Ngày mai nữa - Gabrlelle Zevin

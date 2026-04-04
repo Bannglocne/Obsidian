@@ -1,4 +1,4 @@
-#calculus #maths #derivatives 
+#calculus #maths 
 Suppose _f(x)_ is defined when _x_ is near the number _a_. (This means that _f_ is defined on some open interval that contains _a_, except possibly at _a_ itself.) Then we write: $$\lim_{x \to a} f(x) = L$$ and say "the limit of _f(x)_, as _x_ approaches _a_, equals _L_"
 
 1. if we can make the values of _f(x)_ arbitrarily close to _L_ (as close to _L_ as we like) by taking _x_ to be sufficiently close to _a_ (on either side of _a_) but note equal to _a_.
@@ -10,7 +10,8 @@ $$\text{if } 0 < |x - a| < \delta \quad \text{then} \quad |f(x) - L| < \varepsil
 
 => $\lim_{x \to a} f(x) = L$ if and only if $\lim_{t \to 0^-} H(t) = L$ and $\lim_{t \to 0^+} H(t) = L$ 
 
-## Calculating Limits Using the Limit Laws
+---
+# Limit Laws
 1. $\lim_{x \to a} [f(x) + g(x)] = \lim_{x \to a} f(x) + \lim_{x \to a} g(x)$
 2. $\lim_{x \to a} [f(x) - g(x)] = \lim_{x \to a} f(x) - \lim_{x \to a} g(x)$
 3. $\lim_{x \to a} [c f(x)] = c \lim_{x \to a} f(x)$

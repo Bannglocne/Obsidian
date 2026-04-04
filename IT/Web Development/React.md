@@ -1,3 +1,4 @@
+#front-end #web #js #css 
 # ES6 
 - **[[JS - Classes| Class]]**
 - **Arrow Function**: Write shorter [[JS - Functions| function]] syntax

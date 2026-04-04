@@ -1,4 +1,4 @@
-#chemistry 
+#chemistry #principles 
 A molecule made up of two [[atoms]] is called a **diatomic molecule** ($O_2, H_2,...$).
 Compounds composed of molecules contain more than one type of atom and are called **molecular compounds** ($CH_4,...$).
 

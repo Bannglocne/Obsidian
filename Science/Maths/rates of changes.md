@@ -1,4 +1,4 @@
-#principles #derivatives #maths #calculus 
+#maths #calculus 
 - The **tangents line** to the curve $y = f(x)$ at the point $P(a, f(a))$ is the line through $P$ with the slope $$m = \lim_{x \to a}\frac{f(x) - f(a)}{x - a} = \lim_{h \to 0}\frac{f(a + h) - f(a)}{h}$$ provided that this [[limit]] exists
 
 - The **derivative of a [[function]] $f$ at a number $a$**, denoted by $f'(a)$, is $$f'(a) = \lim_{h \to 0} \frac{f(a + h) - f(a)}{h} = \lim_{x \to a}\frac{f(x) - f(a)}{x - a}$$

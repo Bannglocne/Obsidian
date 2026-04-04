@@ -1,5 +1,5 @@
-#calculus #algebra #maths #principles 
-> A function is a rule that assigns to each element _x_ in a set _D_ exactly one element, called _f(x)_ , in a set _E_.
+#calculus #algebra #maths #principles  
+> A **function** is a rule that assigns to each element _x_ in a set _D_ exactly one element, called _f(x)_ , in a set _E_.
 
 <div style="display: flex;">
 	<img src="/Maths/Maths - Box/Function.png" style="justify-content: left; margin-right: 20px; margin-left:0px;" width="30%">
@@ -45,3 +45,6 @@
 - _(fg)(x)_ = _f(x)g(x)_
 - _(f/g)(x)_ = _f(x)_ / _g(x)_
 - **Composite function**: $(f \circ g)(x) = f(g(x))$
+---
+# Average Value
+$$f_\text{ave} = \frac{1}{b - a}\int_a^b f(x)dx$$

@@ -1,0 +1,2 @@
+#calculus #maths #derivatives 
+Suppose that the functions $f$ and $g$ are [[continuity|continuous]] on $[a, b]$ and [[derivatives|differentiable]] on $(a, b)$, and $g'(x) \neq 0$ for all $x$ in $(a, b)$. Then there is a number $c$ in $(a, b)$ such that $$\frac{f'(c)}{g'(c)} = \frac{f(b) - f(a)}{g(b) - g(a)}$$

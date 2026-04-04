@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "31ad304d01a2c91b",
+        "id": "1fe9dff24b839415",
         "type": "tabs",
         "children": [
           {
-            "id": "19d0a09f7fe05948",
+            "id": "15faee46bc6422b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounting/Accounting in Action.md",
+                "file": "Fundamental of Economics/Thinking Like and Economist.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Accounting in Action"
+              "title": "Thinking Like and Economist"
+            }
+          },
+          {
+            "id": "72d8bbd9aa4d11a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Marketing Management.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Marketing Management"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -88,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounting/Accounting in Action.md",
+                "file": "Marketing/Marketing Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Accounting in Action"
+              "title": "Outline of Marketing Management"
             }
           }
         ]
@@ -117,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accounting/Accounting in Action.md",
+                "file": "Marketing/Marketing Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +142,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Accounting in Action"
+              "title": "Backlinks for Marketing Management"
             }
           },
           {
@@ -160,34 +175,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "19d0a09f7fe05948",
+  "active": "72d8bbd9aa4d11a4",
   "lastOpenFiles": [
-    "Accounting/Debits.md",
-    "Accounting/Accounting in Action.md",
-    "Accounting/Account.md",
-    "Accounting/The Recording Process.md",
-    "Fundamental of Economics/Consumer Price Index.md",
-    "Fundamental of Economics/Unemployment.md",
+    "Marketing/Selecting Customers.md",
+    "Marketing/Marketing Management.md",
+    "Marketing/Marketing Process.md",
     "Fundamental of Economics/Trade.md",
-    "Fundamental of Economics/The Monetary System.md",
-    "Fundamental of Economics/Tax.md",
-    "Fundamental of Economics/Production and Growth.md",
+    "Fundamental of Economics/Price of Trade.md",
+    "Fundamental of Economics/Absolute Advantage.md",
+    "Fundamental of Economics/Comparative Advantage.md",
+    "Fundamental of Economics/Interdependence.md",
+    "Fundamental of Economics/Thinking Like and Economist.md",
+    "Fundamental of Economics/Reverse Causality.md",
+    "Fundamental of Economics/Omitted Variable.md",
+    "Fundamental of Economics/Positive Statements.md",
+    "Fundamental of Economics/Normative Statements.md",
+    "Fundamental of Economics/Macroeconomics.md",
+    "Fundamental of Economics/Microeconomics.md",
     "Fundamental of Economics/Principle of Economics.md",
-    "Fundamental of Economics/Market.md",
+    "Fundamental of Economics/Scientific Method.md",
+    "Fundamental of Economics/A Shift in the Production Possibilities Frontier.md",
+    "Fundamental of Economics/The Production Possibilities Frontier.md",
+    "Fundamental of Economics/Dub/Production and Growth.md",
+    "Fundamental of Economics/The Circular-Flow Diagram.md",
+    "Fundamental of Economics/Assumptions.md",
+    "Fundamental of Economics/Trade-offs.md",
+    "Marketing/Demands.md",
+    "Fundamental of Economics/Business Cycle.md",
     "Fundamental of Economics/Inflation.md",
-    "Fundamental of Economics/Gross Domestic Product.md",
-    "Fundamental of Economics/Financial System.md",
-    "Consumer Price Index.md",
-    "Inflation.md",
-    "Gross Domestic Product.md",
-    "The Monetary System.md",
-    "Unemployment.md",
-    "Market.md",
-    "Trade.md",
-    "Tax.md",
-    "Production and Growth.md",
-    "Principle of Economics.md",
-    "Financial System.md",
+    "Marketing",
+    "Economics - Image/Chart_Of_Account.png",
+    "Economics - Image/Ledger.png",
+    "Economics - Image/Posting_Steps.png",
+    "Economics - Image/General_Journal.png",
+    "Fundamental of Economics/Dub",
     "Economics - Image/A_Shift_in_the_Production_Possibilities_Frontier.png"
   ]
 }

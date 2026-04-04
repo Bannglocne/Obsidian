@@ -1,0 +1,2 @@
+#thermodynamics #chemistry #physics #energy 
+> The **standard state** of a substance is its pure form at atmospheric pressure ( 1atm) and the temperature of interest, which we usually choose to be 298 K ( 25 °C ).

@@ -1,0 +1,2 @@
+#economics 
+>  **Omitted variable** is a significant factor excluded from a statistical model, causing omitted variable bias, where the model misattributes its effect to included variables, distorting their true relationships and leading to inaccurate conclusions.`🦀 and 🕯`

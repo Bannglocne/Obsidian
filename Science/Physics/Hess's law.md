@@ -1,0 +1,2 @@
+#thermodynamics #chemistry #physics #energy #reaction 
+> **Hess’s law** states that if a reaction is carried out in a series of steps, $\Delta H$ for the over all reaction equals the sum of the [[enthalpy]] changes for the individual steps.

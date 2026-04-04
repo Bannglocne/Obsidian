@@ -1,4 +1,4 @@
-#calculus #derivatives #maths 
+#calculus #maths 
 # horizontal
 The line $y = L$ is called a **horizontal asymptote** of the curve $y = f(x)$ if either $$\lim_{x \to \infty}f(x) = L \text{ or } \lim_{x \to -\infty}f(x) = L$$
 

@@ -1,0 +1,2 @@
+#chemistry #thermodynamics #energy 
+> The [[energy]] released when one gram of any substance is combusted is the **fuel value** of the substance. The fuel value of any food or fuel can be measured by [[calorimetry]]

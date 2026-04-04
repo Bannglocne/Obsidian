@@ -1,4 +1,4 @@
-#chemistry 
+#chemistry #principles 
 If electrons are removed from or added to an [[atoms|atom]], a charged particle called an **ion** is formed. 
 - **cation**: positive charged
 - **anion**: negatively charged

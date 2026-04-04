@@ -1,2 +1,2 @@
-#calculus #integral #maths #derivatives 
+#calculus #integral #maths 
 The [[integral]] of a rate of changes is the net change $$\int_{a}^{b} F'(x)dx = F(b) - F(a)$$

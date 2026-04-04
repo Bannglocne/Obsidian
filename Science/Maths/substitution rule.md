@@ -1,3 +1,4 @@
+#derivatives #integral #maths #calculus 
 If $u = g(x)$ is a [[derivatives|differentiable]] [[function]] whose range is an interval $I$ and f is [[continuity|continuous]] on $I$, then $$\int f(g(x))g'(x)dx = \int f(u)du$$
 
 ---

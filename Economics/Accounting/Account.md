@@ -1,5 +1,5 @@
 #accounting #economics 
-> An **account** is an individual accounting record of increases and decreases in a specific asset, liability, or owner’s equity item.
+> An **account** is an individual accounting record of increases and decreases in a specific [[Accounting Process#Accounting Equation|asset, liability, or owner’s equity item]]
 
 In its simplest form, an account consists of three parts:
 <table style="width: 100%; border-collapse: collapse; text-align: center;">

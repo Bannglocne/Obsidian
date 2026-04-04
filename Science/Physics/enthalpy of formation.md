@@ -1,0 +1,2 @@
+#thermodynamics #chemistry #physics #energy 
+> The [[enthalpy]] change associated with the formation of a compound from its constituent elements is called the **enthalpy of formation** (or **heat of formation**), $\Delta H_f$.
