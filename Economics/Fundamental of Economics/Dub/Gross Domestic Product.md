@@ -22,7 +22,7 @@ GDP measures this flow of money in two ways simultaneously:
 # Real vs Nominal GDP
 To determine if the economy is actually producing more goods and services or if prices have simply risen, economists distinguish between two types of GDP:
 - **Nominal GDP**: The production of goods and services valued at current prices.
-- **Real GDP**: The production of goods and services valued at constant prices (from a designated base year). Real GDP is a better gauge of economic well-being because it shows the economy's ability to satisfy people's needs and desires.
+- **Real GDP**: The production of goods and services valued at constant prices (from a designated base year). Real GDP is a better gauge of economic well-being because it shows the economy's ability to satisfy people's [[needs]] and desires.
 
 -> The GDP Deflator: The rise in nominal GDP that is attributable to a rise in prices rather than a rise in the quantities produced.
 $$\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GD}}\times 100$$

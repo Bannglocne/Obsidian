@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/power.md",
+                "file": "Physics/Introduction to Physics.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Physics"
+            }
+          },
+          {
+            "id": "7aa7a8353196687f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/potential energy.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "power"
+              "title": "potential energy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/power.md",
+                "file": "Physics/potential energy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of power"
+              "title": "Outline of potential energy"
             }
           }
         ]
@@ -217,34 +232,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "485304e93cd158f1",
+  "active": "7aa7a8353196687f",
   "lastOpenFiles": [
-    "Physics/work-energy theorem.md",
-    "Physics/power.md",
+    "Physics/calories.md",
+    "Physics/potential energy.md",
     "Physics/kinetic energy.md",
     "Physics/work.md",
     "Physics/heat.md",
-    "Physics/Rydberg equation.md",
-    "wavelengths.md",
-    "Physics/spectrum.md",
-    "Physics/gravity.md",
-    "Physics/motion.md",
-    "Physics/Introduction to Physics.md",
-    "Physics/vector.md",
-    "Physics/Hund's rule.md",
-    "Maths/intermediate value theorem.md",
-    "Maths/linearization.md",
-    "Maths/linear approximation.md",
-    "Maths/implicit differentiation.md",
-    "Maths/area of a surface of revolution.md",
-    "Maths/arc length.md",
-    "Maths/comparison theorem.md",
-    "Maths/improper integrals.md",
-    "Maths/approximate integration.md",
-    "Maths/partial fractions.md",
-    "Maths/trigonometric substitution.md",
-    "Maths/trigonometric integrals.md",
-    "Maths/integration by parts.md",
+    "Physics/energy.md",
+    "Physics/orbital.md",
+    "Physics/wave-mechanical model.md",
+    "Physics/quantum numbers.md",
+    "Physics/Stroke's Law.md",
+    "Physics/terminal velocity.md",
+    "Physics/drag force.md",
+    "Physics/centripetal force.md",
+    "Physics/spring force.md",
+    "Physics/friction.md",
+    "Physics/tension.md",
+    "Physics/normal force.md",
+    "Physics/momentum.md",
+    "Physics/reference frame.md",
+    "Physics/inertia.md",
+    "Physics/Newton's Laws.md",
+    "Physics/force.md",
+    "Physics/SI units.md",
+    "Physics/acceleration.md",
+    "Physics/velocity.md",
+    "Physics/circular motion.md",
     "Pasted image 20260402110428.png",
     "Maths/Untitled",
     "Maths/Maths - Box/Function.png",

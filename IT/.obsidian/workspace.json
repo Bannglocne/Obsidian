@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cpp/C++ - Types.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -77,13 +77,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Hotkeys.md",
+                "file": "Cpp/C++ - Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hotkeys"
+              "title": "Outline of C++ - Types"
             }
           },
           {
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Hotkeys.md",
+                "file": "Cpp/C++ - Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hotkeys"
+              "title": "Outgoing links from C++ - Types"
             }
           },
           {
@@ -158,12 +158,12 @@
   },
   "active": "c2b84f102d6e416a",
   "lastOpenFiles": [
-    "Cpp/C++.md",
-    "IT - Box/CSS - Animations.md",
-    "Cpp/C++ - Types.md",
+    "Cpp/OOP.md",
     "Cpp/Objects.md",
     "Cpp/Class.md",
-    "Cpp/OOP.md",
+    "Cpp/C++ - Types.md",
+    "Cpp/C++.md",
+    "IT - Box/CSS - Animations.md",
     "Traditional Procedural Programming.md",
     "Web Development/CSS.md",
     "Tools/Bash.md",

@@ -3,20 +3,7 @@
 
 => Total production in an economy rises
 
----
-# National Trade
-## Government Policies
-### Controls on Prices
-When policymakers believe the [[Market]] price of a good is unfair to either buyers or sellers, they may impose legal limits on prices.
 
-|            | Price Ceiling                                                                                                                                                                                       | Price Floor                                                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Definition | A legal maximum on the price at which a good can be sold.                                                                                                                                           | A legal minimum on the price at which a good can be sold.                                                                                               |
-| Effect     | If the ceiling is set _below_ the equilibrium price, it is "binding" and creates a **shortage** because the quantity demanded exceeds the quantity supplied.                                        | If the floor is set _above_ the equilibrium price, it is binding and creates a **surplus** because the quantity supplied exceeds the quantity demanded. |
-
-_Note_: If the price ceiling is not binding, [[Market]] forces naturally move the economy to the [[Market#Equilibrium|equilibrium]], and the price ceiling has no effect on the price or the quantity sold.
-
----
 # International Trade
 Economists compare the domestic price to the **world price**  to determine trade patterns.
 

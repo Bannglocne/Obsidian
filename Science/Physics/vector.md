@@ -6,7 +6,8 @@ Physical quantities specified completely by giving a number of units (magnitude)
 
 **Displacement** is a general term used to describe a change in position. The length of the arrow represents the magnitude $\mathbf{D}$ of vector $\vec{\mathbf{D}}$: $\mathbf{D} \equiv |\vec{\mathbf{D}}|$
 
-### Algebra of Vectors in One Dimension
+---
+# Algebra of Vectors
 - $\vec{A}$ is **parallel** to $\vec{B}$ if they have same direction and |$\vec{A}$| = |$\vec{B}$|
 - $\vec{A}$ is **antiparallel** to $\vec{B}$ if they have different directions and |$\vec{A}$| = |$\vec{B}$|
 - $\vec{B}$ = $\alpha$.$\vec{A}$ => B =|α|A.
@@ -15,10 +16,14 @@ Physical quantities specified completely by giving a number of units (magnitude)
 - **Associative**: $(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$
 - **Distributive**: $\alpha_1 \vec{A} + \alpha_2 \vec{A} = (\alpha_1 + \alpha_2) \vec{A}$
 - A **unit vector** ($\hat{u}$) has a magnitude of one and does not have any physical unit so that |$\hat{u}$| = u = 1
----
-## Algebra of Vectors in Two Dimensions
-We follow the **parallelogram rule**.
 
+Vectors can be added together and multiplied by scalars.
+1. $\alpha (\vec{A} + \vec{B}) = \alpha \vec{A} + \alpha \vec{B}$
+2. $- \vec{A} = -\mathbf{A}_{x} \hat{\mathbf{i}}  -\mathbf{A}_{y} \hat{\mathbf{j}}  -\mathbf{A}_{z} \hat{\mathbf{k}}$
+3. $\vec{A} = \vec{B}$ $\Leftrightarrow$ $$ \begin{cases} A_x = B_x \\ A_y = B_y \\ A_z = B_z \end{cases} $$
+4. $$\begin{cases} F_{Rx} = \displaystyle\sum_{k=1}^{N} F_{kx} = F_{1x} + F_{2x} + \dots + F_{Nx} \\ F_{Ry} = \displaystyle\sum_{k=1}^{N} F_{ky} = F_{1y} + F_{2y} + \dots + F_{Ny} \\ F_{Rz} = \displaystyle\sum_{k=1}^{N} F_{kz} = F_{1z} + F_{2z} + \dots + F_{Nz} \end{cases} $$
+5. $\hat{\mathbf{V}} = \frac{\vec{\mathbf{V}}}{V}$
+---
 # Coordinate Systems and Components of a Vector
 $\vec{A} = \vec{\mathbf{A}}_{x} + \vec{\mathbf{A}}_{y}$ with 
 $\begin{cases}  \vec{\mathbf{A}}_x = A_x \times \hat{\mathbf{i}} \\  \vec{\mathbf{A}}_y = A_y \times \hat{\mathbf{j}} \end{cases}$ => **The component form** of a vector: $\vec{\mathbf{A}} = A_x \times \hat{\mathbf{i}} + A_y \times \hat{\mathbf{j}}$
@@ -32,14 +37,6 @@ $$ => $A^2 = A_x^2 + A_y^2 \Leftrightarrow A = \sqrt{A_x^2 + A_y^2}$ and the **d
 $$ \begin{cases} A_x = A \cos \theta_A \\ A_y = A \sin \theta_A \end{cases} $$
 
 **Polar Coordinates**: $$ \begin{cases} x = r \cos \varphi \\ y = r \sin \varphi \end{cases}$$
----
-# Algebra of Vectors
-Vectors can be added together and multiplied by scalars.
-1. $\alpha (\vec{A} + \vec{B}) = \alpha \vec{A} + \alpha \vec{B}$
-2. $- \vec{A} = -\mathbf{A}_{x} \hat{\mathbf{i}}  -\mathbf{A}_{y} \hat{\mathbf{j}}  -\mathbf{A}_{z} \hat{\mathbf{k}}$
-3. $\vec{A} = \vec{B}$ $\Leftrightarrow$ $$ \begin{cases} A_x = B_x \\ A_y = B_y \\ A_z = B_z \end{cases} $$
-4. $$\begin{cases} F_{Rx} = \displaystyle\sum_{k=1}^{N} F_{kx} = F_{1x} + F_{2x} + \dots + F_{Nx} \\ F_{Ry} = \displaystyle\sum_{k=1}^{N} F_{ky} = F_{1y} + F_{2y} + \dots + F_{Ny} \\ F_{Rz} = \displaystyle\sum_{k=1}^{N} F_{kz} = F_{1z} + F_{2z} + \dots + F_{Nz} \end{cases} $$
-5. $\hat{\mathbf{V}} = \frac{\vec{\mathbf{V}}}{V}$
 ---
 # Products of Vectors
 - The **scalar product** $\vec{A}$.$\vec{B}$ of two vectors $\vec{A}$ and $\vec{B}$ is a number defined by the equation $$\vec{A}.\vec{B} = AB \cos{\varphi}$$ where $\varphi$ is the angle between the vectors. 

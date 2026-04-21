@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "886fdcbcc9117f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testament.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Testament"
-            }
-          },
-          {
             "id": "9f0cd6b54ba8890a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toddler/Draft - 0.md",
+                "file": "Story 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Draft - 0"
+              "title": "Story 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toddler/Draft - 0.md",
+                "file": "Story 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Draft - 0"
+              "title": "Outline of Story 1"
             }
           },
           {
@@ -190,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,15 +191,16 @@
   },
   "active": "9f0cd6b54ba8890a",
   "lastOpenFiles": [
+    "Main.md",
+    "Story 1.md",
+    "Toddler/Draft - 0.md",
     "School/9th Grade/Draft - 9.md",
     "Brainstorm.canvas",
     "School/Primary School/Draft - 1- 5.md",
     "School/Primary School",
-    "Toddler/Draft - 0.md",
     "School/10th Grade/Draft - 10.md",
     "Journal.md",
     "Public Documents.md",
-    "Main.md",
     "School/12th Grade/Draft - 12.md",
     "University/1st Year",
     "University/Untitled.md",

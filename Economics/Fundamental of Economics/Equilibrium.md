@@ -1,0 +1,2 @@
+#economics #principles 
+> A situation in which the [[market]] price has reached the level at which [[quantity supplied]] equals [[quantity demanded]]. The price at this intersection is called the **[[Equilibrium Price]]**, and the quantity is called the **[[Equilibrium Quantity]]**.

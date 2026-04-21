@@ -407,4 +407,5 @@
 - The Psychopathology of Everyday Life - Sigmund Freud
 - Thế giới của Sophie - Jostein Gaarder
 - Xấu - Natsuo Kirino
-- Ngày mai, Ngày mai và Ngày mai nữa - Gabrlelle Zevin
+- Ngày mai, Ngày mai và Ngày mai nữa - Gabrlelle Zevin ✅
+- Vùng đất quỷ tha ma bắt - Kevin Chen

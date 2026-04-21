@@ -1,5 +1,5 @@
 #physics #kinematics 
-> In [[motion#Motion in Two and Three Dimensions|two- and three- dimensional]] kinematics, even if the speed is a constant, a particle can have [[acceleration]] if it moves along a curved trajectory such as a circle. In this case the [[velocity]] [[vector]] is changing, or $d \vec{v} \ne 0$
+> In [[motion|two- and three- dimensional]] kinematics, even if the speed is a constant, a particle can have [[acceleration]] if it moves along a curved trajectory such as a circle. In this case the [[velocity]] [[vector]] is changing, or $d \vec{v} \ne 0$
 
 The direction of the [[acceleration]] [[vector]] is toward the center of the circle, **Centripetal [[acceleration]]**: $$a_C = \lim_{\triangle t \to 0} (\frac{\triangle v}{\triangle t}) = \frac{v}{r}(\lim_{\triangle t \to 0}\frac{\triangle r}{\triangle t}) = \frac{v^2}{r}$$
 **Angular frequency** of the particle is a constant: $$\omega = \frac{2 \pi}{T}$$

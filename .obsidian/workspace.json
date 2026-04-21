@@ -11,10 +11,15 @@
             "id": "ae130f28bb055105",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Personal/To-do List.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "To-do List"
             }
           }
         ]
@@ -84,12 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Personal/To-do List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of To-do List"
             }
           }
         ]
@@ -228,12 +234,15 @@
   },
   "active": "ae130f28bb055105",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Personal/To-do List.md",
     "Project/Library.md",
+    "IT/IT - Base.md",
     "Science/Physics/standard enthalpy of formation.md",
     "Economics/Fundamental of Economics/Dub/Gross Domestic Product.md",
     "Science/Physics/standard enthalpy change.md",
     "Science/Physics/standard  state.md",
-    "Economics/Accounting/Recording Process.md",
+    "Project/Accounting/Recording Process.md",
     "Personal/2026.md",
     "Science/reduction.md",
     "Science/Untitled.md",
@@ -242,19 +251,16 @@
     "Science/salt.md",
     "Science/neutralization reaction.md",
     "Science/neutraluzation reaction.md",
-    "Personal/To-do List.md",
     "Project/Stoicism.md",
     "IT/IT - Box/JSON.md",
     "Science/Chemistry/Atoms.md",
     "Economics/Fundamental of Economics/Unemployment.md",
-    "Economics/Accounting",
+    "Project/Accounting",
     "Economics/Fundamental of Economics/Trade.md",
     "Economics/Fundamental of Economics/The Monetary System.md",
     "Economics/Fundamental of Economics/Tax.md",
     "Economics/Fundamental of Economics/Principle of Economics.md",
     "Economics/Fundamental of Economics/Market.md",
-    "Economics/Fundamental of Economics/Inflation.md",
-    "Economics/Fundamental of Economics/Gross Domestic Product.md",
     "Economics/Fundamental of Economics",
     "Project/Memoir",
     "Economics/Economics - Image/Cyclical_Unemployment.png",

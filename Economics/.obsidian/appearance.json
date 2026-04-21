@@ -3,5 +3,6 @@
   "cssTheme": "Prism",
   "interfaceFontFamily": "Courier New",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "Courier New"
+  "monospaceFontFamily": "Courier New",
+  "nativeMenus": false
 }
