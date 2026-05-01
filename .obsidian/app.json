@@ -5,6 +5,6 @@
   "livePreview": false,
   "strictLineBreaks": false,
   "readableLineLength": false,
-  "vimMode": true,
+  "vimMode": false,
   "alwaysUpdateLinks": true
 }

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/potential energy.md",
+                "file": "Physics/force.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "potential energy"
+              "title": "force"
             }
           }
         ],
@@ -103,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/potential energy.md",
+                "file": "Physics/force.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of potential energy"
+              "title": "Outline of force"
             }
           }
         ]
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/power.md",
+                "file": "Physics/force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for power"
+              "title": "Backlinks for force"
             }
           },
           {
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics/power.md",
+                "file": "Physics/force.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,20 +208,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9999999999999981,
+                  "scale": 0.7132754626224406,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of power"
+              "title": "Graph of force"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,32 +233,34 @@
   },
   "active": "7aa7a8353196687f",
   "lastOpenFiles": [
-    "Physics/calories.md",
-    "Physics/potential energy.md",
-    "Physics/kinetic energy.md",
-    "Physics/work.md",
-    "Physics/heat.md",
-    "Physics/energy.md",
-    "Physics/orbital.md",
-    "Physics/wave-mechanical model.md",
-    "Physics/quantum numbers.md",
-    "Physics/Stroke's Law.md",
-    "Physics/terminal velocity.md",
-    "Physics/drag force.md",
-    "Physics/centripetal force.md",
-    "Physics/spring force.md",
-    "Physics/friction.md",
-    "Physics/tension.md",
-    "Physics/normal force.md",
-    "Physics/momentum.md",
-    "Physics/reference frame.md",
-    "Physics/inertia.md",
-    "Physics/Newton's Laws.md",
-    "Physics/force.md",
     "Physics/SI units.md",
     "Physics/acceleration.md",
     "Physics/velocity.md",
     "Physics/circular motion.md",
+    "Physics/projectile motion.md",
+    "Physics/gravity.md",
+    "Physics/motion.md",
+    "Physics/Introduction to Physics.md",
+    "Physics/vector.md",
+    "Chemistry/precipitate.md",
+    "Chemistry/chemical  equilibrium.md",
+    "Chemistry/stoichiometry calculations.md",
+    "Chemistry/molecules.md",
+    "Chemistry/solvation.md",
+    "Chemistry/aqueous solution.md",
+    "Chemistry/electrolysis.md",
+    "Chemistry/solution.md",
+    "Chemistry/formula weights.md",
+    "Chemistry/Avogadro's number and the mole.md",
+    "Chemistry/atoms.md",
+    "Chemistry/Dalton’s atomic theory.md",
+    "Chemistry/ions.md",
+    "Chemistry/naming compounds.md",
+    "Chemistry/periodic table.md",
+    "Chemistry/matter.md",
+    "Chemistry/actinides.md",
+    "Untitled 1",
+    "MSE",
     "Pasted image 20260402110428.png",
     "Maths/Untitled",
     "Maths/Maths - Box/Function.png",

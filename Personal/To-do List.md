@@ -1,7 +1,5 @@
 # Temp
 - [ ] GCI
-- [ ] DC Charger
-- [ ] Speaker (PC)
 
 # Idea
 - [ ] Li - 900
@@ -22,5 +20,3 @@
 - [ ] Solidwork
 - [ ] Fintech (General Program Structure)
 - [ ] Creative cats drawing
-- [ ] Reread Zettelkasten
-- [ ] Buying Pencil
