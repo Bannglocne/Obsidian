@@ -107,7 +107,6 @@
 - Vụ án
 - Nước Mỹ
 - Lâu đài
-- Metamorphosis
 - The trial
 
 # Fyodor Dostoevsky
@@ -408,4 +407,4 @@
 - Thế giới của Sophie - Jostein Gaarder
 - Xấu - Natsuo Kirino
 - Ngày mai, Ngày mai và Ngày mai nữa - Gabrlelle Zevin ✅
-- Vùng đất quỷ tha ma bắt - Kevin Chen
+- Vùng đất quỷ tha ma bắt - Kevin Chen ✅

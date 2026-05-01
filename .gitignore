@@ -1,0 +1,12 @@
+.obisdian/
+.smart-env/
+.gitattributes
+Economics/.obisdian/
+IT/.obisdian/
+Personal/.obisdian/
+Project/Memoir/.obisdian/
+Science/.obisdian/
+Science/Chemistry/.obisdian/
+Science/Physics/.obisdian/
+Science/Maths/.obisdian/
+Science/MSE/.obisdian/
