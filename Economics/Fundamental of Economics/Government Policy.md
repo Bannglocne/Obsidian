@@ -12,5 +12,7 @@ $\Rightarrow$ Result:
 - When the government imposes a binding [[price ceiling]] on a [[competitive market]], a [[shortage]] of the good arises, and sellers must ration the scarce goods among the large number of potential buyers.
 - If the [[price ceiling]] and [[price floor]] is not binding, [[market]] forces naturally move the economy to the [[equilibrium]], and the [[price ceiling]] and [[price floor]] has no effect on the price or the quantity sold.
 
-# Tax
-See more at [[Tax]]
+---
+[[Tax]
+
+---
