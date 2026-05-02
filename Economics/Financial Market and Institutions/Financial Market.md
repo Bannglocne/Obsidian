@@ -1,0 +1,2 @@
+#financial-market #economics 
+> **Financial markets (==Thị trường tài chính==)** are crucial to promoting greater economic [[efficiency]] by channeling funds from people who do not have a productive use for them to those who do.

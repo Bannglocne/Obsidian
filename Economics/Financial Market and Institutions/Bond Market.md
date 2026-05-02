@@ -1,0 +1,2 @@
+#economics #financial-market 
+> **Bond market** (or _Debt market_), enable corporations and governments to borrow in order to finance their activities; is also where [[Interest rate|interest rates]] are determined.

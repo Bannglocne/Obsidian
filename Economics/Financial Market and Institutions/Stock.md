@@ -1,0 +1,2 @@
+#financial-market #economics 
+> A **common stock (==Cổ phiếu==)** (typically just called a **stock**) represents a share of ownership in a corporation. It is a [[security]] that is a claim on the earnings and assets of the corporation.

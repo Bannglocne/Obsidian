@@ -10,7 +10,7 @@ $\Rightarrow$ [[Tax Incidence|A tax burden falls]] more heavily on the side of t
 
 ---
 ## Application of Tax
-**[[Market#Elasticity|Elasticity]] Rule**: The more elastic (responsive) the [[supply]] or [[demand]] curves, the larger the [[deadweight loss]]. (When participants are highly responsive to price changes, they exit the [[market]] more easily in response to a tax, causing the [[market]] quantity to drop significantly and resulting in a larger loss of [[Total Surplus|surplus]].)
+**[[Market#Elasticity|Elasticity]] Rule**: The more elastic (responsive) the [[supply]] or [[demand]] curves, the larger the [[Deadweight Loss]]. (When participants are highly responsive to price changes, they exit the [[market]] more easily in response to a tax, causing the [[market]] quantity to drop significantly and resulting in a larger loss of [[Total Surplus|surplus]].)
 
 ![[Deadweight_Loss_and_Tax_Revenue.png]]
 ![[Tax_Distortions_and_ Elasticities.png]]

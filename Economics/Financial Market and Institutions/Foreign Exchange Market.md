@@ -1,0 +1,2 @@
+#financial-market #economics 
+> The **foreign exchange market (==Thị trường ngoại hối==)** is where currency in the country of origin converted into the currency of the country they are going to, so it is instrumental in moving funds between countries

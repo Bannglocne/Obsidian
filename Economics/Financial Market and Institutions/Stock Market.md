@@ -1,0 +1,2 @@
+#financial-market #economics 
+> **The stock market**, in which claims on the earnings of corporations (shares of stock) are traded. Issuing [[stock]] and selling it to the public is a way for corporations to raise funds to finance their activities. 
