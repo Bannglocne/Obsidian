@@ -26,6 +26,3 @@ $$\text{Price elasticity of demand (supply)} = \frac{(Q_2 - Q_1) / [(Q_2 + Q_1) 
 > $$\text{Income elasticity of demand} = \frac{\text{Percentage change in quantity demanded}}{\text{Percentage change in income}}$$
 > $\quad$
 > $$\text{Cross-price elasticity of demand} = \frac{\text{Percentage change in quantity demanded of good 1}}{\text{Percentage change in the price of good 2}}$$
-
-
-
